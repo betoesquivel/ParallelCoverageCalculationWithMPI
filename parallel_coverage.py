@@ -60,17 +60,20 @@ def distribute_coverage (locs):
 
     # DISTRIBUTE CALCULATION
     # broadcast the locs
-    comm.Bcast([locs, MPI.FLOAT], root=0)
+    #comm.Bcast([locs, MPI.FLOAT], root=0)
 
     # calculate my part of the calculation
     partial_results = calc_my_partial_coverage(locs)
 
+    comm.Barrier()
     # reduce the calculation
     results = numpy.array([0.0,0.0,0.0])
-    comm.Reduce(None, results, op.MPI.SUM, root=0)
+    comm.Reduce(partial_results, results, op.MPI.SUM, root=0)
 
-    # add my partial results to the reduction
-    results = numpy.add(partial_results, results)
+    if rank == 0:
+        # add my partial results to the reduction
+        results = numpy.add(partial_results, results)
+
 
     # return the results
     dsum   = results[0]
@@ -120,9 +123,18 @@ def calc_my_partial_coverage(locs):
 
     # get number of combinations per processor
     sec_comb_len = nsec_comb / procs
+    sec_comb_len = 1 if sec_comb_len == 0 else sec_comb_len
 
     # calculate coverage for my combinations of sections
-    comb_lower_b, comb_upper_b = get_bounds(procs, rank, sec_comb_len, nsec_comb)
+    comb_lower_b, comb_upper_b = get_bounds(sec_comb_len, nsec_comb)
+
+    # make sure the master node does nothing if there are only two processors
+    if procs == 2 and rank == 0:
+        comb_lower_b = comb_upper_b
+    elif procs == 2 and rank == 1:
+        comb_lower_b = 0
+        comb_upper_b = 2
+
     for ic in range(comb_lower_b, comb_upper_b):
         combination = sec_combs[ic]
         # get boundaries for sections to combine
@@ -143,7 +155,7 @@ def calc_my_partial_coverage(locs):
 
     return numpy.array([dsum, npaths, ncoin])
 
-def get_bounds(procs, rank, section_length, data_length):
+def get_bounds(section_length, data_length):
     '''
     Returns lower and upper bounds in data, like so:
      [lowerbound, upperbound)
@@ -154,7 +166,7 @@ def get_bounds(procs, rank, section_length, data_length):
      rank 0 has first section, rank 1 has second section, and so on.
     '''
     lowerbound = rank * section_length
-    upperbound = data_length if (rank == (procs-1)) else (rank+1)*section_length
+    upperbound = data_length if (rank >= (procs-1)) else (rank+1)*section_length
     return lowerbound, upperbound
 
 def mean_coverage1 (opname, imsets):
@@ -253,66 +265,57 @@ def sort_by_value (d):
 # Main program
 #------------------------------------------------------------------------------
 
-if rank == 0:
-    opnames = ['ebr', 'ibr', 'mser', 'sfop']
-    imsets = ['bark', 'bikes', 'boat', 'graf', 'leuv', 'trees', 'ubc', 'wall']
-    results = {}
+opnames = ['ebr', 'ibr', 'mser', 'sfop']
+imsets = ['bark', 'bikes', 'boat', 'graf', 'leuv', 'trees', 'ubc', 'wall']
+results = {}
 
-    # Calculate the coverage for each combination of quadruples of operators.
-    nops = len (opnames)
-    for i1 in range (0, nops):
-        op1 = opnames[i1]
-        for i2 in range (i1+1, nops):
-            op2 = opnames[i2]
-            for i3 in range (i2+1, nops):
-                op3 = opnames[i3]
-                for i4 in range (i3+1, nops):
-                    op4 = opnames[i4]
-                    mc = mean_coverage4 (op1, op2, op3, op4, imsets)
-                    print op1, op2, op3, op4, mc
-                    results[op1 + ' + ' + op2 + ' + ' + op3 + ' + ' + op4] = mc
+# Calculate the coverage for each combination of quadruples of operators.
+nops = len (opnames)
+for i1 in range (0, nops):
+    op1 = opnames[i1]
+    for i2 in range (i1+1, nops):
+        op2 = opnames[i2]
+        for i3 in range (i2+1, nops):
+            op3 = opnames[i3]
+            for i4 in range (i3+1, nops):
+                op4 = opnames[i4]
+                mc = mean_coverage4 (op1, op2, op3, op4, imsets)
+                print op1, op2, op3, op4, mc
+                results[op1 + ' + ' + op2 + ' + ' + op3 + ' + ' + op4] = mc
 
-    # Calculate the coverage for each combination of triples of operators.
-    nops = len (opnames)
-    for i1 in range (0, nops):
-        op1 = opnames[i1]
-        for i2 in range (i1+1, nops):
-            op2 = opnames[i2]
-            for i3 in range (i2+1, nops):
-                op3 = opnames[i3]
-                mc = mean_coverage3 (op1, op2, op3, imsets)
-                print op1, op2, op3, mc
-                results[op1 + ' + ' + op2 + ' + ' + op3] = mc
+# Calculate the coverage for each combination of triples of operators.
+nops = len (opnames)
+for i1 in range (0, nops):
+    op1 = opnames[i1]
+    for i2 in range (i1+1, nops):
+        op2 = opnames[i2]
+        for i3 in range (i2+1, nops):
+            op3 = opnames[i3]
+            mc = mean_coverage3 (op1, op2, op3, imsets)
+            print op1, op2, op3, mc
+            results[op1 + ' + ' + op2 + ' + ' + op3] = mc
 
-    # Calculate the coverage for each combination of pairs of operators.
-    nops = len (opnames)
-    for i1 in range (0, nops):
-        op1 = opnames[i1]
-        for i2 in range (i1+1, nops):
-            op2 = opnames[i2]
-            mc = mean_coverage2 (op1, op2, imsets)
-            print op1, op2, mc
-            results[op1 + ' + ' + op2] = mc
+# Calculate the coverage for each combination of pairs of operators.
+nops = len (opnames)
+for i1 in range (0, nops):
+    op1 = opnames[i1]
+    for i2 in range (i1+1, nops):
+        op2 = opnames[i2]
+        mc = mean_coverage2 (op1, op2, imsets)
+        print op1, op2, mc
+        results[op1 + ' + ' + op2] = mc
 
-    # Calculate the coverage for each individual operator.
-    for op in opnames:
-        mc = mean_coverage1 (op, imsets)
-        print op, mc
-        results[op] = mc
+# Calculate the coverage for each individual operator.
+for op in opnames:
+    mc = mean_coverage1 (op, imsets)
+    print op, mc
+    results[op] = mc
 
-    # Output what we've calculated in descending order of coverage.
-    ds = sort_by_value (results)
-    for k in reversed (ds):
-        print k, results[k]
+# Output what we've calculated in descending order of coverage.
+ds = sort_by_value (results)
+for k in reversed (ds):
+    print k, results[k]
 
-    #------------------------------------------------------------------------------
-    # End of coverage
-    #------------------------------------------------------------------------------
-else:
-    locs = None
-
-    comm.Bcast([locs, MPI.FLOAT], root=0)
-
-    results = calc_my_partial_coverage(locs)
-
-    comm.Reduce(None, results, op.MPI.SUM, root=0)
+#------------------------------------------------------------------------------
+# End of coverage
+#------------------------------------------------------------------------------
