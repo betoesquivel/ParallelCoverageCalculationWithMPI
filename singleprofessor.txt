@@ -1,0 +1,750 @@
+   locations/ebr_bark1.txt locations/ibr_bark1.txt locations/mser_bark1.txt locations/sfop_bark1.txt gave 4903146 paths and 0 coincident points.
+   locations/ebr_bark2.txt locations/ibr_bark2.txt locations/mser_bark2.txt locations/sfop_bark2.txt gave 4616241 paths and 0 coincident points.
+   locations/ebr_bark3.txt locations/ibr_bark3.txt locations/mser_bark3.txt locations/sfop_bark3.txt gave 4763241 paths and 0 coincident points.
+   locations/ebr_bark4.txt locations/ibr_bark4.txt locations/mser_bark4.txt locations/sfop_bark4.txt gave 6126750 paths and 0 coincident points.
+   locations/ebr_bark5.txt locations/ibr_bark5.txt locations/mser_bark5.txt locations/sfop_bark5.txt gave 5761315 paths and 0 coincident points.
+   locations/ebr_bark6.txt locations/ibr_bark6.txt locations/mser_bark6.txt locations/sfop_bark6.txt gave 6331461 paths and 0 coincident points.
+   locations/ebr_bikes1.txt locations/ibr_bikes1.txt locations/mser_bikes1.txt locations/sfop_bikes1.txt gave 7815081 paths and 0 coincident points.
+   locations/ebr_bikes2.txt locations/ibr_bikes2.txt locations/mser_bikes2.txt locations/sfop_bikes2.txt gave 4744740 paths and 0 coincident points.
+   locations/ebr_bikes3.txt locations/ibr_bikes3.txt locations/mser_bikes3.txt locations/sfop_bikes3.txt gave 3924201 paths and 0 coincident points.
+   locations/ebr_bikes4.txt locations/ibr_bikes4.txt locations/mser_bikes4.txt locations/sfop_bikes4.txt gave 2554930 paths and 0 coincident points.
+   locations/ebr_bikes5.txt locations/ibr_bikes5.txt locations/mser_bikes5.txt locations/sfop_bikes5.txt gave 1878891 paths and 0 coincident points.
+   locations/ebr_bikes6.txt locations/ibr_bikes6.txt locations/mser_bikes6.txt locations/sfop_bikes6.txt gave 1309771 paths and 0 coincident points.
+   locations/ebr_boat1.txt locations/ibr_boat1.txt locations/mser_boat1.txt locations/sfop_boat1.txt gave 19341090 paths and 0 coincident points.
+   locations/ebr_boat2.txt locations/ibr_boat2.txt locations/mser_boat2.txt locations/sfop_boat2.txt gave 17190316 paths and 0 coincident points.
+   locations/ebr_boat3.txt locations/ibr_boat3.txt locations/mser_boat3.txt locations/sfop_boat3.txt gave 9603153 paths and 0 coincident points.
+   locations/ebr_boat4.txt locations/ibr_boat4.txt locations/mser_boat4.txt locations/sfop_boat4.txt gave 6586635 paths and 0 coincident points.
+   locations/ebr_boat5.txt locations/ibr_boat5.txt locations/mser_boat5.txt locations/sfop_boat5.txt gave 5147236 paths and 0 coincident points.
+   locations/ebr_boat6.txt locations/ibr_boat6.txt locations/mser_boat6.txt locations/sfop_boat6.txt gave 4108411 paths and 0 coincident points.
+   locations/ebr_graf1.txt locations/ibr_graf1.txt locations/mser_graf1.txt locations/sfop_graf1.txt gave 5446650 paths and 0 coincident points.
+   locations/ebr_graf2.txt locations/ibr_graf2.txt locations/mser_graf2.txt locations/sfop_graf2.txt gave 7471045 paths and 0 coincident points.
+   locations/ebr_graf3.txt locations/ibr_graf3.txt locations/mser_graf3.txt locations/sfop_graf3.txt gave 8308926 paths and 0 coincident points.
+   locations/ebr_graf4.txt locations/ibr_graf4.txt locations/mser_graf4.txt locations/sfop_graf4.txt gave 6214575 paths and 0 coincident points.
+   locations/ebr_graf5.txt locations/ibr_graf5.txt locations/mser_graf5.txt locations/sfop_graf5.txt gave 6046503 paths and 0 coincident points.
+   locations/ebr_graf6.txt locations/ibr_graf6.txt locations/mser_graf6.txt locations/sfop_graf6.txt gave 5700376 paths and 0 coincident points.
+   locations/ebr_leuv1.txt locations/ibr_leuv1.txt locations/mser_leuv1.txt locations/sfop_leuv1.txt gave 4634490 paths and 0 coincident points.
+   locations/ebr_leuv2.txt locations/ibr_leuv2.txt locations/mser_leuv2.txt locations/sfop_leuv2.txt gave 3509925 paths and 0 coincident points.
+   locations/ebr_leuv3.txt locations/ibr_leuv3.txt locations/mser_leuv3.txt locations/sfop_leuv3.txt gave 2582128 paths and 0 coincident points.
+   locations/ebr_leuv4.txt locations/ibr_leuv4.txt locations/mser_leuv4.txt locations/sfop_leuv4.txt gave 2025078 paths and 0 coincident points.
+   locations/ebr_leuv5.txt locations/ibr_leuv5.txt locations/mser_leuv5.txt locations/sfop_leuv5.txt gave 1444150 paths and 0 coincident points.
+   locations/ebr_leuv6.txt locations/ibr_leuv6.txt locations/mser_leuv6.txt locations/sfop_leuv6.txt gave 1062153 paths and 0 coincident points.
+   locations/ebr_trees1.txt locations/ibr_trees1.txt locations/mser_trees1.txt locations/sfop_trees1.txt gave 31900078 paths and 0 coincident points.
+   locations/ebr_trees2.txt locations/ibr_trees2.txt locations/mser_trees2.txt locations/sfop_trees2.txt gave 32340903 paths and 0 coincident points.
+   locations/ebr_trees3.txt locations/ibr_trees3.txt locations/mser_trees3.txt locations/sfop_trees3.txt gave 29495040 paths and 0 coincident points.
+   locations/ebr_trees4.txt locations/ibr_trees4.txt locations/mser_trees4.txt locations/sfop_trees4.txt gave 29196261 paths and 0 coincident points.
+   locations/ebr_trees5.txt locations/ibr_trees5.txt locations/mser_trees5.txt locations/sfop_trees5.txt gave 28391880 paths and 0 coincident points.
+   locations/ebr_trees6.txt locations/ibr_trees6.txt locations/mser_trees6.txt locations/sfop_trees6.txt gave 18895878 paths and 0 coincident points.
+   locations/ebr_ubc1.txt locations/ibr_ubc1.txt locations/mser_ubc1.txt locations/sfop_ubc1.txt gave 8078190 paths and 0 coincident points.
+   locations/ebr_ubc2.txt locations/ibr_ubc2.txt locations/mser_ubc2.txt locations/sfop_ubc2.txt gave 8142630 paths and 0 coincident points.
+   locations/ebr_ubc3.txt locations/ibr_ubc3.txt locations/mser_ubc3.txt locations/sfop_ubc3.txt gave 8805306 paths and 0 coincident points.
+   locations/ebr_ubc4.txt locations/ibr_ubc4.txt locations/mser_ubc4.txt locations/sfop_ubc4.txt gave 8260080 paths and 0 coincident points.
+   locations/ebr_ubc5.txt locations/ibr_ubc5.txt locations/mser_ubc5.txt locations/sfop_ubc5.txt gave 9876790 paths and 0 coincident points.
+   locations/ebr_ubc6.txt locations/ibr_ubc6.txt locations/mser_ubc6.txt locations/sfop_ubc6.txt gave 7033125 paths and 0 coincident points.
+   locations/ebr_wall1.txt locations/ibr_wall1.txt locations/mser_wall1.txt locations/sfop_wall1.txt gave 49466431 paths and 0 coincident points.
+   locations/ebr_wall2.txt locations/ibr_wall2.txt locations/mser_wall2.txt locations/sfop_wall2.txt gave 35866215 paths and 0 coincident points.
+   locations/ebr_wall3.txt locations/ibr_wall3.txt locations/mser_wall3.txt locations/sfop_wall3.txt gave 31557540 paths and 0 coincident points.
+   locations/ebr_wall4.txt locations/ibr_wall4.txt locations/mser_wall4.txt locations/sfop_wall4.txt gave 29857128 paths and 0 coincident points.
+   locations/ebr_wall5.txt locations/ibr_wall5.txt locations/mser_wall5.txt locations/sfop_wall5.txt gave 29841675 paths and 0 coincident points.
+   locations/ebr_wall6.txt locations/ibr_wall6.txt locations/mser_wall6.txt locations/sfop_wall6.txt gave 25909201 paths and 0 coincident points.
+ebr ibr mser sfop 215.36894237
+   locations/ebr_bark1.txt locations/ibr_bark1.txt locations/mser_bark1.txt gave 973710 paths and 0 coincident points.
+   locations/ebr_bark2.txt locations/ibr_bark2.txt locations/mser_bark2.txt gave 861328 paths and 0 coincident points.
+   locations/ebr_bark3.txt locations/ibr_bark3.txt locations/mser_bark3.txt gave 936396 paths and 0 coincident points.
+   locations/ebr_bark4.txt locations/ibr_bark4.txt locations/mser_bark4.txt gave 1610115 paths and 0 coincident points.
+   locations/ebr_bark5.txt locations/ibr_bark5.txt locations/mser_bark5.txt gave 1417086 paths and 0 coincident points.
+   locations/ebr_bark6.txt locations/ibr_bark6.txt locations/mser_bark6.txt gave 1523385 paths and 0 coincident points.
+   locations/ebr_bikes1.txt locations/ibr_bikes1.txt locations/mser_bikes1.txt gave 2703975 paths and 0 coincident points.
+   locations/ebr_bikes2.txt locations/ibr_bikes2.txt locations/mser_bikes2.txt gave 1464616 paths and 0 coincident points.
+   locations/ebr_bikes3.txt locations/ibr_bikes3.txt locations/mser_bikes3.txt gave 1159003 paths and 0 coincident points.
+   locations/ebr_bikes4.txt locations/ibr_bikes4.txt locations/mser_bikes4.txt gave 727821 paths and 0 coincident points.
+   locations/ebr_bikes5.txt locations/ibr_bikes5.txt locations/mser_bikes5.txt gave 481671 paths and 0 coincident points.
+   locations/ebr_bikes6.txt locations/ibr_bikes6.txt locations/mser_bikes6.txt gave 310866 paths and 0 coincident points.
+   locations/ebr_boat1.txt locations/ibr_boat1.txt locations/mser_boat1.txt gave 8893653 paths and 0 coincident points.
+   locations/ebr_boat2.txt locations/ibr_boat2.txt locations/mser_boat2.txt gave 7599151 paths and 0 coincident points.
+   locations/ebr_boat3.txt locations/ibr_boat3.txt locations/mser_boat3.txt gave 3446625 paths and 0 coincident points.
+   locations/ebr_boat4.txt locations/ibr_boat4.txt locations/mser_boat4.txt gave 2114596 paths and 0 coincident points.
+   locations/ebr_boat5.txt locations/ibr_boat5.txt locations/mser_boat5.txt gave 1688203 paths and 0 coincident points.
+   locations/ebr_boat6.txt locations/ibr_boat6.txt locations/mser_boat6.txt gave 958420 paths and 0 coincident points.
+   locations/ebr_graf1.txt locations/ibr_graf1.txt locations/mser_graf1.txt gave 3066526 paths and 0 coincident points.
+   locations/ebr_graf2.txt locations/ibr_graf2.txt locations/mser_graf2.txt gave 4096953 paths and 0 coincident points.
+   locations/ebr_graf3.txt locations/ibr_graf3.txt locations/mser_graf3.txt gave 4622320 paths and 0 coincident points.
+   locations/ebr_graf4.txt locations/ibr_graf4.txt locations/mser_graf4.txt gave 2886003 paths and 0 coincident points.
+   locations/ebr_graf5.txt locations/ibr_graf5.txt locations/mser_graf5.txt gave 2831010 paths and 0 coincident points.
+   locations/ebr_graf6.txt locations/ibr_graf6.txt locations/mser_graf6.txt gave 2582128 paths and 0 coincident points.
+   locations/ebr_leuv1.txt locations/ibr_leuv1.txt locations/mser_leuv1.txt gave 1507716 paths and 0 coincident points.
+   locations/ebr_leuv2.txt locations/ibr_leuv2.txt locations/mser_leuv2.txt gave 1165101 paths and 0 coincident points.
+   locations/ebr_leuv3.txt locations/ibr_leuv3.txt locations/mser_leuv3.txt gave 794430 paths and 0 coincident points.
+   locations/ebr_leuv4.txt locations/ibr_leuv4.txt locations/mser_leuv4.txt gave 598965 paths and 0 coincident points.
+   locations/ebr_leuv5.txt locations/ibr_leuv5.txt locations/mser_leuv5.txt gave 415416 paths and 0 coincident points.
+   locations/ebr_leuv6.txt locations/ibr_leuv6.txt locations/mser_leuv6.txt gave 292995 paths and 0 coincident points.
+   locations/ebr_trees1.txt locations/ibr_trees1.txt locations/mser_trees1.txt gave 11335941 paths and 0 coincident points.
+   locations/ebr_trees2.txt locations/ibr_trees2.txt locations/mser_trees2.txt gave 11618610 paths and 0 coincident points.
+   locations/ebr_trees3.txt locations/ibr_trees3.txt locations/mser_trees3.txt gave 10967586 paths and 0 coincident points.
+   locations/ebr_trees4.txt locations/ibr_trees4.txt locations/mser_trees4.txt gave 9493903 paths and 0 coincident points.
+   locations/ebr_trees5.txt locations/ibr_trees5.txt locations/mser_trees5.txt gave 8931651 paths and 0 coincident points.
+   locations/ebr_trees6.txt locations/ibr_trees6.txt locations/mser_trees6.txt gave 5227761 paths and 0 coincident points.
+   locations/ebr_ubc1.txt locations/ibr_ubc1.txt locations/mser_ubc1.txt gave 2443155 paths and 0 coincident points.
+   locations/ebr_ubc2.txt locations/ibr_ubc2.txt locations/mser_ubc2.txt gave 2396955 paths and 0 coincident points.
+   locations/ebr_ubc3.txt locations/ibr_ubc3.txt locations/mser_ubc3.txt gave 2701650 paths and 0 coincident points.
+   locations/ebr_ubc4.txt locations/ibr_ubc4.txt locations/mser_ubc4.txt gave 2527876 paths and 0 coincident points.
+   locations/ebr_ubc5.txt locations/ibr_ubc5.txt locations/mser_ubc5.txt gave 3873936 paths and 0 coincident points.
+   locations/ebr_ubc6.txt locations/ibr_ubc6.txt locations/mser_ubc6.txt gave 2888406 paths and 0 coincident points.
+   locations/ebr_wall1.txt locations/ibr_wall1.txt locations/mser_wall1.txt gave 23760171 paths and 0 coincident points.
+   locations/ebr_wall2.txt locations/ibr_wall2.txt locations/mser_wall2.txt gave 17237256 paths and 0 coincident points.
+   locations/ebr_wall3.txt locations/ibr_wall3.txt locations/mser_wall3.txt gave 14116641 paths and 0 coincident points.
+   locations/ebr_wall4.txt locations/ibr_wall4.txt locations/mser_wall4.txt gave 12890503 paths and 0 coincident points.
+   locations/ebr_wall5.txt locations/ibr_wall5.txt locations/mser_wall5.txt gave 12809391 paths and 0 coincident points.
+   locations/ebr_wall6.txt locations/ibr_wall6.txt locations/mser_wall6.txt gave 10006101 paths and 0 coincident points.
+ebr ibr mser 196.570242443
+   locations/ebr_bark1.txt locations/ibr_bark1.txt locations/sfop_bark1.txt gave 3646350 paths and 0 coincident points.
+   locations/ebr_bark2.txt locations/ibr_bark2.txt locations/sfop_bark2.txt gave 3843378 paths and 0 coincident points.
+   locations/ebr_bark3.txt locations/ibr_bark3.txt locations/sfop_bark3.txt gave 3589860 paths and 0 coincident points.
+   locations/ebr_bark4.txt locations/ibr_bark4.txt locations/sfop_bark4.txt gave 3910206 paths and 0 coincident points.
+   locations/ebr_bark5.txt locations/ibr_bark5.txt locations/sfop_bark5.txt gave 3673405 paths and 0 coincident points.
+   locations/ebr_bark6.txt locations/ibr_bark6.txt locations/sfop_bark6.txt gave 3860031 paths and 0 coincident points.
+   locations/ebr_bikes1.txt locations/ibr_bikes1.txt locations/sfop_bikes1.txt gave 5569453 paths and 0 coincident points.
+   locations/ebr_bikes2.txt locations/ibr_bikes2.txt locations/sfop_bikes2.txt gave 3727815 paths and 0 coincident points.
+   locations/ebr_bikes3.txt locations/ibr_bikes3.txt locations/sfop_bikes3.txt gave 3146286 paths and 0 coincident points.
+   locations/ebr_bikes4.txt locations/ibr_bikes4.txt locations/sfop_bikes4.txt gave 2131080 paths and 0 coincident points.
+   locations/ebr_bikes5.txt locations/ibr_bikes5.txt locations/sfop_bikes5.txt gave 1594005 paths and 0 coincident points.
+   locations/ebr_bikes6.txt locations/ibr_bikes6.txt locations/sfop_bikes6.txt gave 1143828 paths and 0 coincident points.
+   locations/ebr_boat1.txt locations/ibr_boat1.txt locations/sfop_boat1.txt gave 11023860 paths and 0 coincident points.
+   locations/ebr_boat2.txt locations/ibr_boat2.txt locations/sfop_boat2.txt gave 9713028 paths and 0 coincident points.
+   locations/ebr_boat3.txt locations/ibr_boat3.txt locations/sfop_boat3.txt gave 5221296 paths and 0 coincident points.
+   locations/ebr_boat4.txt locations/ibr_boat4.txt locations/sfop_boat4.txt gave 4218060 paths and 0 coincident points.
+   locations/ebr_boat5.txt locations/ibr_boat5.txt locations/sfop_boat5.txt gave 3501981 paths and 0 coincident points.
+   locations/ebr_boat6.txt locations/ibr_boat6.txt locations/sfop_boat6.txt gave 2449791 paths and 0 coincident points.
+   locations/ebr_graf1.txt locations/ibr_graf1.txt locations/sfop_graf1.txt gave 3829528 paths and 0 coincident points.
+   locations/ebr_graf2.txt locations/ibr_graf2.txt locations/sfop_graf2.txt gave 5344815 paths and 0 coincident points.
+   locations/ebr_graf3.txt locations/ibr_graf3.txt locations/sfop_graf3.txt gave 5839653 paths and 0 coincident points.
+   locations/ebr_graf4.txt locations/ibr_graf4.txt locations/sfop_graf4.txt gave 4042746 paths and 0 coincident points.
+   locations/ebr_graf5.txt locations/ibr_graf5.txt locations/sfop_graf5.txt gave 3622086 paths and 0 coincident points.
+   locations/ebr_graf6.txt locations/ibr_graf6.txt locations/sfop_graf6.txt gave 3076440 paths and 0 coincident points.
+   locations/ebr_leuv1.txt locations/ibr_leuv1.txt locations/sfop_leuv1.txt gave 3071481 paths and 0 coincident points.
+   locations/ebr_leuv2.txt locations/ibr_leuv2.txt locations/sfop_leuv2.txt gave 2353365 paths and 0 coincident points.
+   locations/ebr_leuv3.txt locations/ibr_leuv3.txt locations/sfop_leuv3.txt gave 1723296 paths and 0 coincident points.
+   locations/ebr_leuv4.txt locations/ibr_leuv4.txt locations/sfop_leuv4.txt gave 1388611 paths and 0 coincident points.
+   locations/ebr_leuv5.txt locations/ibr_leuv5.txt locations/sfop_leuv5.txt gave 990528 paths and 0 coincident points.
+   locations/ebr_leuv6.txt locations/ibr_leuv6.txt locations/sfop_leuv6.txt gave 730236 paths and 0 coincident points.
+   locations/ebr_trees1.txt locations/ibr_trees1.txt locations/sfop_trees1.txt gave 14175150 paths and 0 coincident points.
+   locations/ebr_trees2.txt locations/ibr_trees2.txt locations/sfop_trees2.txt gave 13574655 paths and 0 coincident points.
+   locations/ebr_trees3.txt locations/ibr_trees3.txt locations/sfop_trees3.txt gave 13305061 paths and 0 coincident points.
+   locations/ebr_trees4.txt locations/ibr_trees4.txt locations/sfop_trees4.txt gave 15304278 paths and 0 coincident points.
+   locations/ebr_trees5.txt locations/ibr_trees5.txt locations/sfop_trees5.txt gave 16979878 paths and 0 coincident points.
+   locations/ebr_trees6.txt locations/ibr_trees6.txt locations/sfop_trees6.txt gave 12982060 paths and 0 coincident points.
+   locations/ebr_ubc1.txt locations/ibr_ubc1.txt locations/sfop_ubc1.txt gave 5279625 paths and 0 coincident points.
+   locations/ebr_ubc2.txt locations/ibr_ubc2.txt locations/sfop_ubc2.txt gave 5253661 paths and 0 coincident points.
+   locations/ebr_ubc3.txt locations/ibr_ubc3.txt locations/sfop_ubc3.txt gave 5737578 paths and 0 coincident points.
+   locations/ebr_ubc4.txt locations/ibr_ubc4.txt locations/sfop_ubc4.txt gave 5089645 paths and 0 coincident points.
+   locations/ebr_ubc5.txt locations/ibr_ubc5.txt locations/sfop_ubc5.txt gave 5374281 paths and 0 coincident points.
+   locations/ebr_ubc6.txt locations/ibr_ubc6.txt locations/sfop_ubc6.txt gave 3980431 paths and 0 coincident points.
+   locations/ebr_wall1.txt locations/ibr_wall1.txt locations/sfop_wall1.txt gave 28754736 paths and 0 coincident points.
+   locations/ebr_wall2.txt locations/ibr_wall2.txt locations/sfop_wall2.txt gave 21441426 paths and 0 coincident points.
+   locations/ebr_wall3.txt locations/ibr_wall3.txt locations/sfop_wall3.txt gave 18237780 paths and 0 coincident points.
+   locations/ebr_wall4.txt locations/ibr_wall4.txt locations/sfop_wall4.txt gave 17137585 paths and 0 coincident points.
+   locations/ebr_wall5.txt locations/ibr_wall5.txt locations/sfop_wall5.txt gave 16956576 paths and 0 coincident points.
+   locations/ebr_wall6.txt locations/ibr_wall6.txt locations/sfop_wall6.txt gave 14121955 paths and 0 coincident points.
+ebr ibr sfop 215.926521724
+   locations/ebr_bark1.txt locations/mser_bark1.txt locations/sfop_bark1.txt gave 2914905 paths and 0 coincident points.
+   locations/ebr_bark2.txt locations/mser_bark2.txt locations/sfop_bark2.txt gave 2525628 paths and 0 coincident points.
+   locations/ebr_bark3.txt locations/mser_bark3.txt locations/sfop_bark3.txt gave 2902845 paths and 0 coincident points.
+   locations/ebr_bark4.txt locations/mser_bark4.txt locations/sfop_bark4.txt gave 3879505 paths and 0 coincident points.
+   locations/ebr_bark5.txt locations/mser_bark5.txt locations/sfop_bark5.txt gave 3695121 paths and 0 coincident points.
+   locations/ebr_bark6.txt locations/mser_bark6.txt locations/sfop_bark6.txt gave 4200651 paths and 0 coincident points.
+   locations/ebr_bikes1.txt locations/mser_bikes1.txt locations/sfop_bikes1.txt gave 5115201 paths and 0 coincident points.
+   locations/ebr_bikes2.txt locations/mser_bikes2.txt locations/sfop_bikes2.txt gave 2785980 paths and 0 coincident points.
+   locations/ebr_bikes3.txt locations/mser_bikes3.txt locations/sfop_bikes3.txt gave 2176741 paths and 0 coincident points.
+   locations/ebr_bikes4.txt locations/mser_bikes4.txt locations/sfop_bikes4.txt gave 1225395 paths and 0 coincident points.
+   locations/ebr_bikes5.txt locations/mser_bikes5.txt locations/sfop_bikes5.txt gave 881128 paths and 0 coincident points.
+   locations/ebr_bikes6.txt locations/mser_bikes6.txt locations/sfop_bikes6.txt gave 579426 paths and 0 coincident points.
+   locations/ebr_boat1.txt locations/mser_boat1.txt locations/sfop_boat1.txt gave 14319276 paths and 0 coincident points.
+   locations/ebr_boat2.txt locations/mser_boat2.txt locations/sfop_boat2.txt gave 12607731 paths and 0 coincident points.
+   locations/ebr_boat3.txt locations/mser_boat3.txt locations/sfop_boat3.txt gave 6898755 paths and 0 coincident points.
+   locations/ebr_boat4.txt locations/mser_boat4.txt locations/sfop_boat4.txt gave 4853170 paths and 0 coincident points.
+   locations/ebr_boat5.txt locations/mser_boat5.txt locations/sfop_boat5.txt gave 3600586 paths and 0 coincident points.
+   locations/ebr_boat6.txt locations/mser_boat6.txt locations/sfop_boat6.txt gave 3056628 paths and 0 coincident points.
+   locations/ebr_graf1.txt locations/mser_graf1.txt locations/sfop_graf1.txt gave 3436131 paths and 0 coincident points.
+   locations/ebr_graf2.txt locations/mser_graf2.txt locations/sfop_graf2.txt gave 4843828 paths and 0 coincident points.
+   locations/ebr_graf3.txt locations/mser_graf3.txt locations/sfop_graf3.txt gave 5377560 paths and 0 coincident points.
+   locations/ebr_graf4.txt locations/mser_graf4.txt locations/sfop_graf4.txt gave 3708726 paths and 0 coincident points.
+   locations/ebr_graf5.txt locations/mser_graf5.txt locations/sfop_graf5.txt gave 3265290 paths and 0 coincident points.
+   locations/ebr_graf6.txt locations/mser_graf6.txt locations/sfop_graf6.txt gave 3088855 paths and 0 coincident points.
+   locations/ebr_leuv1.txt locations/mser_leuv1.txt locations/sfop_leuv1.txt gave 3247426 paths and 0 coincident points.
+   locations/ebr_leuv2.txt locations/mser_leuv2.txt locations/sfop_leuv2.txt gave 2465310 paths and 0 coincident points.
+   locations/ebr_leuv3.txt locations/mser_leuv3.txt locations/sfop_leuv3.txt gave 1846081 paths and 0 coincident points.
+   locations/ebr_leuv4.txt locations/mser_leuv4.txt locations/sfop_leuv4.txt gave 1507716 paths and 0 coincident points.
+   locations/ebr_leuv5.txt locations/mser_leuv5.txt locations/sfop_leuv5.txt gave 1059240 paths and 0 coincident points.
+   locations/ebr_leuv6.txt locations/mser_leuv6.txt locations/sfop_leuv6.txt gave 810901 paths and 0 coincident points.
+   locations/ebr_trees1.txt locations/mser_trees1.txt locations/sfop_trees1.txt gave 22114575 paths and 0 coincident points.
+   locations/ebr_trees2.txt locations/mser_trees2.txt locations/sfop_trees2.txt gave 22933378 paths and 0 coincident points.
+   locations/ebr_trees3.txt locations/mser_trees3.txt locations/sfop_trees3.txt gave 19365976 paths and 0 coincident points.
+   locations/ebr_trees4.txt locations/mser_trees4.txt locations/sfop_trees4.txt gave 17366671 paths and 0 coincident points.
+   locations/ebr_trees5.txt locations/mser_trees5.txt locations/sfop_trees5.txt gave 15023421 paths and 0 coincident points.
+   locations/ebr_trees6.txt locations/mser_trees6.txt locations/sfop_trees6.txt gave 9135675 paths and 0 coincident points.
+   locations/ebr_ubc1.txt locations/mser_ubc1.txt locations/sfop_ubc1.txt gave 5602878 paths and 0 coincident points.
+   locations/ebr_ubc2.txt locations/mser_ubc2.txt locations/sfop_ubc2.txt gave 5781700 paths and 0 coincident points.
+   locations/ebr_ubc3.txt locations/mser_ubc3.txt locations/sfop_ubc3.txt gave 6335020 paths and 0 coincident points.
+   locations/ebr_ubc4.txt locations/mser_ubc4.txt locations/sfop_ubc4.txt gave 5785101 paths and 0 coincident points.
+   locations/ebr_ubc5.txt locations/mser_ubc5.txt locations/sfop_ubc5.txt gave 6991930 paths and 0 coincident points.
+   locations/ebr_ubc6.txt locations/mser_ubc6.txt locations/sfop_ubc6.txt gave 5013361 paths and 0 coincident points.
+   locations/ebr_wall1.txt locations/mser_wall1.txt locations/sfop_wall1.txt gave 41984866 paths and 0 coincident points.
+   locations/ebr_wall2.txt locations/mser_wall2.txt locations/sfop_wall2.txt gave 30182565 paths and 0 coincident points.
+   locations/ebr_wall3.txt locations/mser_wall3.txt locations/sfop_wall3.txt gave 25851645 paths and 0 coincident points.
+   locations/ebr_wall4.txt locations/mser_wall4.txt locations/sfop_wall4.txt gave 24119985 paths and 0 coincident points.
+   locations/ebr_wall5.txt locations/mser_wall5.txt locations/sfop_wall5.txt gave 24113040 paths and 0 coincident points.
+   locations/ebr_wall6.txt locations/mser_wall6.txt locations/sfop_wall6.txt gave 20804475 paths and 0 coincident points.
+ebr mser sfop 214.116257689
+   locations/ibr_bark1.txt locations/mser_bark1.txt locations/sfop_bark1.txt gave 4157286 paths and 0 coincident points.
+   locations/ibr_bark2.txt locations/mser_bark2.txt locations/sfop_bark2.txt gave 3871153 paths and 0 coincident points.
+   locations/ibr_bark3.txt locations/mser_bark3.txt locations/sfop_bark3.txt gave 3924201 paths and 0 coincident points.
+   locations/ibr_bark4.txt locations/mser_bark4.txt locations/sfop_bark4.txt gave 4881250 paths and 0 coincident points.
+   locations/ibr_bark5.txt locations/mser_bark5.txt locations/sfop_bark5.txt gave 4713985 paths and 0 coincident points.
+   locations/ibr_bark6.txt locations/mser_bark6.txt locations/sfop_bark6.txt gave 5289378 paths and 0 coincident points.
+   locations/ibr_bikes1.txt locations/mser_bikes1.txt locations/sfop_bikes1.txt gave 4495501 paths and 0 coincident points.
+   locations/ibr_bikes2.txt locations/mser_bikes2.txt locations/sfop_bikes2.txt gave 2973141 paths and 0 coincident points.
+   locations/ibr_bikes3.txt locations/mser_bikes3.txt locations/sfop_bikes3.txt gave 2614041 paths and 0 coincident points.
+   locations/ibr_bikes4.txt locations/mser_bikes4.txt locations/sfop_bikes4.txt gave 1890540 paths and 0 coincident points.
+   locations/ibr_bikes5.txt locations/mser_bikes5.txt locations/sfop_bikes5.txt gave 1480060 paths and 0 coincident points.
+   locations/ibr_bikes6.txt locations/mser_bikes6.txt locations/sfop_bikes6.txt gave 1091503 paths and 0 coincident points.
+   locations/ibr_boat1.txt locations/mser_boat1.txt locations/sfop_boat1.txt gave 9651421 paths and 0 coincident points.
+   locations/ibr_boat2.txt locations/mser_boat2.txt locations/sfop_boat2.txt gave 9084453 paths and 0 coincident points.
+   locations/ibr_boat3.txt locations/mser_boat3.txt locations/sfop_boat3.txt gave 6392100 paths and 0 coincident points.
+   locations/ibr_boat4.txt locations/mser_boat4.txt locations/sfop_boat4.txt gave 3952266 paths and 0 coincident points.
+   locations/ibr_boat5.txt locations/mser_boat5.txt locations/sfop_boat5.txt gave 3019653 paths and 0 coincident points.
+   locations/ibr_boat6.txt locations/mser_boat6.txt locations/sfop_boat6.txt gave 3196656 paths and 0 coincident points.
+   locations/ibr_graf1.txt locations/mser_graf1.txt locations/sfop_graf1.txt gave 2071630 paths and 0 coincident points.
+   locations/ibr_graf2.txt locations/mser_graf2.txt locations/sfop_graf2.txt gave 2764776 paths and 0 coincident points.
+   locations/ibr_graf3.txt locations/mser_graf3.txt locations/sfop_graf3.txt gave 3103786 paths and 0 coincident points.
+   locations/ibr_graf4.txt locations/mser_graf4.txt locations/sfop_graf4.txt gave 3396921 paths and 0 coincident points.
+   locations/ibr_graf5.txt locations/mser_graf5.txt locations/sfop_graf5.txt gave 3935415 paths and 0 coincident points.
+   locations/ibr_graf6.txt locations/mser_graf6.txt locations/sfop_graf6.txt gave 4177495 paths and 0 coincident points.
+   locations/ibr_leuv1.txt locations/mser_leuv1.txt locations/sfop_leuv1.txt gave 2807265 paths and 0 coincident points.
+   locations/ibr_leuv2.txt locations/mser_leuv2.txt locations/sfop_leuv2.txt gave 2063496 paths and 0 coincident points.
+   locations/ibr_leuv3.txt locations/mser_leuv3.txt locations/sfop_leuv3.txt gave 1581531 paths and 0 coincident points.
+   locations/ibr_leuv4.txt locations/mser_leuv4.txt locations/sfop_leuv4.txt gave 1185030 paths and 0 coincident points.
+   locations/ibr_leuv5.txt locations/mser_leuv5.txt locations/sfop_leuv5.txt gave 875826 paths and 0 coincident points.
+   locations/ibr_leuv6.txt locations/mser_leuv6.txt locations/sfop_leuv6.txt gave 632250 paths and 0 coincident points.
+   locations/ibr_trees1.txt locations/mser_trees1.txt locations/sfop_trees1.txt gave 26103925 paths and 0 coincident points.
+   locations/ibr_trees2.txt locations/mser_trees2.txt locations/sfop_trees2.txt gave 26816826 paths and 0 coincident points.
+   locations/ibr_trees3.txt locations/mser_trees3.txt locations/sfop_trees3.txt gave 24328800 paths and 0 coincident points.
+   locations/ibr_trees4.txt locations/mser_trees4.txt locations/sfop_trees4.txt gave 25493370 paths and 0 coincident points.
+   locations/ibr_trees5.txt locations/mser_trees5.txt locations/sfop_trees5.txt gave 24995985 paths and 0 coincident points.
+   locations/ibr_trees6.txt locations/mser_trees6.txt locations/sfop_trees6.txt gave 17044041 paths and 0 coincident points.
+   locations/ibr_ubc1.txt locations/mser_ubc1.txt locations/sfop_ubc1.txt gave 5282875 paths and 0 coincident points.
+   locations/ibr_ubc2.txt locations/mser_ubc2.txt locations/sfop_ubc2.txt gave 5361175 paths and 0 coincident points.
+   locations/ibr_ubc3.txt locations/mser_ubc3.txt locations/sfop_ubc3.txt gave 5502903 paths and 0 coincident points.
+   locations/ibr_ubc4.txt locations/mser_ubc4.txt locations/sfop_ubc4.txt gave 5619628 paths and 0 coincident points.
+   locations/ibr_ubc5.txt locations/mser_ubc5.txt locations/sfop_ubc5.txt gave 6235746 paths and 0 coincident points.
+   locations/ibr_ubc6.txt locations/mser_ubc6.txt locations/sfop_ubc6.txt gave 4088370 paths and 0 coincident points.
+   locations/ibr_wall1.txt locations/mser_wall1.txt locations/sfop_wall1.txt gave 19210701 paths and 0 coincident points.
+   locations/ibr_wall2.txt locations/mser_wall2.txt locations/sfop_wall2.txt gave 13616371 paths and 0 coincident points.
+   locations/ibr_wall3.txt locations/mser_wall3.txt locations/sfop_wall3.txt gave 13989405 paths and 0 coincident points.
+   locations/ibr_wall4.txt locations/mser_wall4.txt locations/sfop_wall4.txt gave 14068860 paths and 0 coincident points.
+   locations/ibr_wall5.txt locations/mser_wall5.txt locations/sfop_wall5.txt gave 14292531 paths and 0 coincident points.
+   locations/ibr_wall6.txt locations/mser_wall6.txt locations/sfop_wall6.txt gave 14346046 paths and 0 coincident points.
+ibr mser sfop 223.874716871
+   locations/ebr_bark1.txt locations/ibr_bark1.txt gave 465130 paths and 0 coincident points.
+   locations/ebr_bark2.txt locations/ibr_bark2.txt gave 547581 paths and 0 coincident points.
+   locations/ebr_bark3.txt locations/ibr_bark3.txt gave 462241 paths and 0 coincident points.
+   locations/ebr_bark4.txt locations/ibr_bark4.txt gave 594595 paths and 0 coincident points.
+   locations/ebr_bark5.txt locations/ibr_bark5.txt gave 499500 paths and 0 coincident points.
+   locations/ebr_bark6.txt locations/ibr_bark6.txt gave 466095 paths and 0 coincident points.
+   locations/ebr_bikes1.txt locations/ibr_bikes1.txt gave 1461195 paths and 0 coincident points.
+   locations/ebr_bikes2.txt locations/ibr_bikes2.txt gave 926841 paths and 0 coincident points.
+   locations/ebr_bikes3.txt locations/ibr_bikes3.txt gave 755835 paths and 0 coincident points.
+   locations/ebr_bikes4.txt locations/ibr_bikes4.txt gave 510555 paths and 0 coincident points.
+   locations/ebr_bikes5.txt locations/ibr_bikes5.txt gave 343206 paths and 0 coincident points.
+   locations/ebr_bikes6.txt locations/ibr_bikes6.txt gave 232903 paths and 0 coincident points.
+   locations/ebr_boat1.txt locations/ibr_boat1.txt gave 3627471 paths and 0 coincident points.
+   locations/ebr_boat2.txt locations/ibr_boat2.txt gave 2982903 paths and 0 coincident points.
+   locations/ebr_boat3.txt locations/ibr_boat3.txt gave 1087075 paths and 0 coincident points.
+   locations/ebr_boat4.txt locations/ibr_boat4.txt gave 886446 paths and 0 coincident points.
+   locations/ebr_boat5.txt locations/ibr_boat5.txt gave 813450 paths and 0 coincident points.
+   locations/ebr_boat6.txt locations/ibr_boat6.txt gave 267546 paths and 0 coincident points.
+   locations/ebr_graf1.txt locations/ibr_graf1.txt gave 1888596 paths and 0 coincident points.
+   locations/ebr_graf2.txt locations/ibr_graf2.txt gave 2568511 paths and 0 coincident points.
+   locations/ebr_graf3.txt locations/ibr_graf3.txt gave 2835771 paths and 0 coincident points.
+   locations/ebr_graf4.txt locations/ibr_graf4.txt gave 1480060 paths and 0 coincident points.
+   locations/ebr_graf5.txt locations/ibr_graf5.txt gave 1269621 paths and 0 coincident points.
+   locations/ebr_graf6.txt locations/ibr_graf6.txt gave 947376 paths and 0 coincident points.
+   locations/ebr_leuv1.txt locations/ibr_leuv1.txt gave 685035 paths and 0 coincident points.
+   locations/ebr_leuv2.txt locations/ibr_leuv2.txt gave 547581 paths and 0 coincident points.
+   locations/ebr_leuv3.txt locations/ibr_leuv3.txt gave 356590 paths and 0 coincident points.
+   locations/ebr_leuv4.txt locations/ibr_leuv4.txt gave 280126 paths and 0 coincident points.
+   locations/ebr_leuv5.txt locations/ibr_leuv5.txt gave 191890 paths and 0 coincident points.
+   locations/ebr_leuv6.txt locations/ibr_leuv6.txt gave 133386 paths and 0 coincident points.
+   locations/ebr_trees1.txt locations/ibr_trees1.txt gave 2201851 paths and 0 coincident points.
+   locations/ebr_trees2.txt locations/ibr_trees2.txt gave 1977066 paths and 0 coincident points.
+   locations/ebr_trees3.txt locations/ibr_trees3.txt gave 2336041 paths and 0 coincident points.
+   locations/ebr_trees4.txt locations/ibr_trees4.txt gave 2527876 paths and 0 coincident points.
+   locations/ebr_trees5.txt locations/ibr_trees5.txt gave 3171421 paths and 0 coincident points.
+   locations/ebr_trees6.txt locations/ibr_trees6.txt gave 2379471 paths and 0 coincident points.
+   locations/ebr_ubc1.txt locations/ibr_ubc1.txt gave 1037520 paths and 0 coincident points.
+   locations/ebr_ubc2.txt locations/ibr_ubc2.txt gave 973710 paths and 0 coincident points.
+   locations/ebr_ubc3.txt locations/ibr_ubc3.txt gave 1148370 paths and 0 coincident points.
+   locations/ebr_ubc4.txt locations/ibr_ubc4.txt gave 944625 paths and 0 coincident points.
+   locations/ebr_ubc5.txt locations/ibr_ubc5.txt gave 1308153 paths and 0 coincident points.
+   locations/ebr_ubc6.txt locations/ibr_ubc6.txt gave 1087075 paths and 0 coincident points.
+   locations/ebr_wall1.txt locations/ibr_wall1.txt gave 10262715 paths and 0 coincident points.
+   locations/ebr_wall2.txt locations/ibr_wall2.txt gave 7803225 paths and 0 coincident points.
+   locations/ebr_wall3.txt locations/ibr_wall3.txt gave 5808936 paths and 0 coincident points.
+   locations/ebr_wall4.txt locations/ibr_wall4.txt gave 5134410 paths and 0 coincident points.
+   locations/ebr_wall5.txt locations/ibr_wall5.txt gave 4991220 paths and 0 coincident points.
+   locations/ebr_wall6.txt locations/ibr_wall6.txt gave 3352755 paths and 0 coincident points.
+ebr ibr 189.659694768
+   locations/ebr_bark1.txt locations/mser_bark1.txt gave 230181 paths and 0 coincident points.
+   locations/ebr_bark2.txt locations/mser_bark2.txt gave 135981 paths and 0 coincident points.
+   locations/ebr_bark3.txt locations/mser_bark3.txt gave 239086 paths and 0 coincident points.
+   locations/ebr_bark4.txt locations/mser_bark4.txt gave 582660 paths and 0 coincident points.
+   locations/ebr_bark5.txt locations/mser_bark5.txt gave 507528 paths and 0 coincident points.
+   locations/ebr_bark6.txt locations/mser_bark6.txt gave 589155 paths and 0 coincident points.
+   locations/ebr_bikes1.txt locations/mser_bikes1.txt gave 1233235 paths and 0 coincident points.
+   locations/ebr_bikes2.txt locations/mser_bikes2.txt gave 491536 paths and 0 coincident points.
+   locations/ebr_bikes3.txt locations/mser_bikes3.txt gave 326028 paths and 0 coincident points.
+   locations/ebr_bikes4.txt locations/mser_bikes4.txt gave 130816 paths and 0 coincident points.
+   locations/ebr_bikes5.txt locations/mser_bikes5.txt gave 68635 paths and 0 coincident points.
+   locations/ebr_bikes6.txt locations/mser_bikes6.txt gave 30381 paths and 0 coincident points.
+   locations/ebr_boat1.txt locations/mser_boat1.txt gave 5609575 paths and 0 coincident points.
+   locations/ebr_boat2.txt locations/mser_boat2.txt gave 4671096 paths and 0 coincident points.
+   locations/ebr_boat3.txt locations/mser_boat3.txt gave 1915903 paths and 0 coincident points.
+   locations/ebr_boat4.txt locations/mser_boat4.txt gave 1189653 paths and 0 coincident points.
+   locations/ebr_boat5.txt locations/mser_boat5.txt gave 861328 paths and 0 coincident points.
+   locations/ebr_boat6.txt locations/mser_boat6.txt gave 490545 paths and 0 coincident points.
+   locations/ebr_graf1.txt locations/mser_graf1.txt gave 1615503 paths and 0 coincident points.
+   locations/ebr_graf2.txt locations/mser_graf2.txt gave 2224995 paths and 0 coincident points.
+   locations/ebr_graf3.txt locations/mser_graf3.txt gave 2516646 paths and 0 coincident points.
+   locations/ebr_graf4.txt locations/mser_graf4.txt gave 1280800 paths and 0 coincident points.
+   locations/ebr_graf5.txt locations/mser_graf5.txt gave 1062153 paths and 0 coincident points.
+   locations/ebr_graf6.txt locations/mser_graf6.txt gave 954271 paths and 0 coincident points.
+   locations/ebr_leuv1.txt locations/mser_leuv1.txt gave 769420 paths and 0 coincident points.
+   locations/ebr_leuv2.txt locations/mser_leuv2.txt gave 602253 paths and 0 coincident points.
+   locations/ebr_leuv3.txt locations/mser_leuv3.txt gave 413595 paths and 0 coincident points.
+   locations/ebr_leuv4.txt locations/mser_leuv4.txt gave 334971 paths and 0 coincident points.
+   locations/ebr_leuv5.txt locations/mser_leuv5.txt gave 222778 paths and 0 coincident points.
+   locations/ebr_leuv6.txt locations/mser_leuv6.txt gave 169071 paths and 0 coincident points.
+   locations/ebr_trees1.txt locations/mser_trees1.txt gave 5863600 paths and 0 coincident points.
+   locations/ebr_trees2.txt locations/mser_trees2.txt gave 6303025 paths and 0 coincident points.
+   locations/ebr_trees3.txt locations/mser_trees3.txt gave 5205151 paths and 0 coincident points.
+   locations/ebr_trees4.txt locations/mser_trees4.txt gave 3404745 paths and 0 coincident points.
+   locations/ebr_trees5.txt locations/mser_trees5.txt gave 2359878 paths and 0 coincident points.
+   locations/ebr_trees6.txt locations/mser_trees6.txt gave 925480 paths and 0 coincident points.
+   locations/ebr_ubc1.txt locations/mser_ubc1.txt gave 1183491 paths and 0 coincident points.
+   locations/ebr_ubc2.txt locations/mser_ubc2.txt gave 1208235 paths and 0 coincident points.
+   locations/ebr_ubc3.txt locations/mser_ubc3.txt gave 1423828 paths and 0 coincident points.
+   locations/ebr_ubc4.txt locations/mser_ubc4.txt gave 1256905 paths and 0 coincident points.
+   locations/ebr_ubc5.txt locations/mser_ubc5.txt gave 2160081 paths and 0 coincident points.
+   locations/ebr_ubc6.txt locations/mser_ubc6.txt gave 1655290 paths and 0 coincident points.
+   locations/ebr_wall1.txt locations/mser_wall1.txt gave 18669105 paths and 0 coincident points.
+   locations/ebr_wall2.txt locations/mser_wall2.txt gave 13372206 paths and 0 coincident points.
+   locations/ebr_wall3.txt locations/mser_wall3.txt gave 10394520 paths and 0 coincident points.
+   locations/ebr_wall4.txt locations/mser_wall4.txt gave 9225660 paths and 0 coincident points.
+   locations/ebr_wall5.txt locations/mser_wall5.txt gave 9161340 paths and 0 coincident points.
+   locations/ebr_wall6.txt locations/mser_wall6.txt gave 6939675 paths and 0 coincident points.
+ebr mser 180.497735173
+   locations/ebr_bark1.txt locations/sfop_bark1.txt gave 1967136 paths and 0 coincident points.
+   locations/ebr_bark2.txt locations/sfop_bark2.txt gave 1963171 paths and 0 coincident points.
+   locations/ebr_bark3.txt locations/sfop_bark3.txt gave 2005003 paths and 0 coincident points.
+   locations/ebr_bark4.txt locations/sfop_bark4.txt gave 2166321 paths and 0 coincident points.
+   locations/ebr_bark5.txt locations/sfop_bark5.txt gave 2069595 paths and 0 coincident points.
+   locations/ebr_bark6.txt locations/sfop_bark6.txt gave 2244021 paths and 0 coincident points.
+   locations/ebr_bikes1.txt locations/sfop_bikes1.txt gave 3334653 paths and 0 coincident points.
+   locations/ebr_bikes2.txt locations/sfop_bikes2.txt gave 2021055 paths and 0 coincident points.
+   locations/ebr_bikes3.txt locations/sfop_bikes3.txt gave 1608321 paths and 0 coincident points.
+   locations/ebr_bikes4.txt locations/sfop_bikes4.txt gave 937765 paths and 0 coincident points.
+   locations/ebr_bikes5.txt locations/sfop_bikes5.txt gave 689725 paths and 0 coincident points.
+   locations/ebr_bikes6.txt locations/sfop_bikes6.txt gave 470935 paths and 0 coincident points.
+   locations/ebr_boat1.txt locations/sfop_boat1.txt gave 7324878 paths and 0 coincident points.
+   locations/ebr_boat2.txt locations/sfop_boat2.txt gave 6356395 paths and 0 coincident points.
+   locations/ebr_boat3.txt locations/sfop_boat3.txt gave 3285766 paths and 0 coincident points.
+   locations/ebr_boat4.txt locations/sfop_boat4.txt gave 2857245 paths and 0 coincident points.
+   locations/ebr_boat5.txt locations/sfop_boat5.txt gave 2250381 paths and 0 coincident points.
+   locations/ebr_boat6.txt locations/sfop_boat6.txt gave 1655290 paths and 0 coincident points.
+   locations/ebr_graf1.txt locations/sfop_graf1.txt gave 2180916 paths and 0 coincident points.
+   locations/ebr_graf2.txt locations/sfop_graf2.txt gave 3166386 paths and 0 coincident points.
+   locations/ebr_graf3.txt locations/sfop_graf3.txt gave 3433510 paths and 0 coincident points.
+   locations/ebr_graf4.txt locations/sfop_graf4.txt gave 2083861 paths and 0 coincident points.
+   locations/ebr_graf5.txt locations/sfop_graf5.txt gave 1565565 paths and 0 coincident points.
+   locations/ebr_graf6.txt locations/sfop_graf6.txt gave 1263255 paths and 0 coincident points.
+   locations/ebr_leuv1.txt locations/sfop_leuv1.txt gave 1965153 paths and 0 coincident points.
+   locations/ebr_leuv2.txt locations/sfop_leuv2.txt gave 1514670 paths and 0 coincident points.
+   locations/ebr_leuv3.txt locations/sfop_leuv3.txt gave 1133265 paths and 0 coincident points.
+   locations/ebr_leuv4.txt locations/sfop_leuv4.txt gave 966745 paths and 0 coincident points.
+   locations/ebr_leuv5.txt locations/sfop_leuv5.txt gave 676866 paths and 0 coincident points.
+   locations/ebr_leuv6.txt locations/sfop_leuv6.txt gave 524800 paths and 0 coincident points.
+   locations/ebr_trees1.txt locations/sfop_trees1.txt gave 7950078 paths and 0 coincident points.
+   locations/ebr_trees2.txt locations/sfop_trees2.txt gave 7763770 paths and 0 coincident points.
+   locations/ebr_trees3.txt locations/sfop_trees3.txt gave 6850551 paths and 0 coincident points.
+   locations/ebr_trees4.txt locations/sfop_trees4.txt gave 7161220 paths and 0 coincident points.
+   locations/ebr_trees5.txt locations/sfop_trees5.txt gave 7119651 paths and 0 coincident points.
+   locations/ebr_trees6.txt locations/sfop_trees6.txt gave 5192253 paths and 0 coincident points.
+   locations/ebr_ubc1.txt locations/sfop_ubc1.txt gave 3321753 paths and 0 coincident points.
+   locations/ebr_ubc2.txt locations/sfop_ubc2.txt gave 3396921 paths and 0 coincident points.
+   locations/ebr_ubc3.txt locations/sfop_ubc3.txt gave 3782625 paths and 0 coincident points.
+   locations/ebr_ubc4.txt locations/sfop_ubc4.txt gave 3194128 paths and 0 coincident points.
+   locations/ebr_ubc5.txt locations/sfop_ubc5.txt gave 3311451 paths and 0 coincident points.
+   locations/ebr_ubc6.txt locations/sfop_ubc6.txt gave 2503203 paths and 0 coincident points.
+   locations/ebr_wall1.txt locations/sfop_wall1.txt gave 23123400 paths and 0 coincident points.
+   locations/ebr_wall2.txt locations/sfop_wall2.txt gave 17102476 paths and 0 coincident points.
+   locations/ebr_wall3.txt locations/sfop_wall3.txt gave 13968255 paths and 0 coincident points.
+   locations/ebr_wall4.txt locations/sfop_wall4.txt gave 12865128 paths and 0 coincident points.
+   locations/ebr_wall5.txt locations/sfop_wall5.txt gave 12713403 paths and 0 coincident points.
+   locations/ebr_wall6.txt locations/sfop_wall6.txt gave 10426461 paths and 0 coincident points.
+ebr sfop 214.791746679
+   locations/ibr_bark1.txt locations/mser_bark1.txt gave 658378 paths and 0 coincident points.
+   locations/ibr_bark2.txt locations/mser_bark2.txt gave 558096 paths and 0 coincident points.
+   locations/ibr_bark3.txt locations/mser_bark3.txt gave 586986 paths and 0 coincident points.
+   locations/ibr_bark4.txt locations/mser_bark4.txt gave 1006071 paths and 0 coincident points.
+   locations/ibr_bark5.txt locations/mser_bark5.txt gave 924120 paths and 0 coincident points.
+   locations/ibr_bark6.txt locations/mser_bark6.txt gave 1036080 paths and 0 coincident points.
+   locations/ibr_bikes1.txt locations/mser_bikes1.txt gave 939135 paths and 0 coincident points.
+   locations/ibr_bikes2.txt locations/mser_bikes2.txt gave 571915 paths and 0 coincident points.
+   locations/ibr_bikes3.txt locations/mser_bikes3.txt gave 507528 paths and 0 coincident points.
+   locations/ibr_bikes4.txt locations/mser_bikes4.txt gave 396495 paths and 0 coincident points.
+   locations/ibr_bikes5.txt locations/mser_bikes5.txt gave 291466 paths and 0 coincident points.
+   locations/ibr_bikes6.txt locations/mser_bikes6.txt gave 209628 paths and 0 coincident points.
+   locations/ibr_boat1.txt locations/mser_boat1.txt gave 2859636 paths and 0 coincident points.
+   locations/ibr_boat2.txt locations/mser_boat2.txt gave 2639253 paths and 0 coincident points.
+   locations/ibr_boat3.txt locations/mser_boat3.txt gave 1653471 paths and 0 coincident points.
+   locations/ibr_boat4.txt locations/mser_boat4.txt gave 766941 paths and 0 coincident points.
+   locations/ibr_boat5.txt locations/mser_boat5.txt gave 590241 paths and 0 coincident points.
+   locations/ibr_boat6.txt locations/mser_boat6.txt gave 547581 paths and 0 coincident points.
+   locations/ibr_graf1.txt locations/mser_graf1.txt gave 733866 paths and 0 coincident points.
+   locations/ibr_graf2.txt locations/mser_graf2.txt gave 909226 paths and 0 coincident points.
+   locations/ibr_graf3.txt locations/mser_graf3.txt gave 1059240 paths and 0 coincident points.
+   locations/ibr_graf4.txt locations/mser_graf4.txt gave 1100386 paths and 0 coincident points.
+   locations/ibr_graf5.txt locations/mser_graf5.txt gave 1457778 paths and 0 coincident points.
+   locations/ibr_graf6.txt locations/mser_graf6.txt gave 1595791 paths and 0 coincident points.
+   locations/ibr_leuv1.txt locations/mser_leuv1.txt gave 563391 paths and 0 coincident points.
+   locations/ibr_leuv2.txt locations/mser_leuv2.txt gave 412686 paths and 0 coincident points.
+   locations/ibr_leuv3.txt locations/mser_leuv3.txt gave 293761 paths and 0 coincident points.
+   locations/ibr_leuv4.txt locations/mser_leuv4.txt gave 193131 paths and 0 coincident points.
+   locations/ibr_leuv5.txt locations/mser_leuv5.txt gave 143380 paths and 0 coincident points.
+   locations/ibr_leuv6.txt locations/mser_leuv6.txt gave 93528 paths and 0 coincident points.
+   locations/ibr_trees1.txt locations/mser_trees1.txt gave 7998000 paths and 0 coincident points.
+   locations/ibr_trees2.txt locations/mser_trees2.txt gave 8411151 paths and 0 coincident points.
+   locations/ibr_trees3.txt locations/mser_trees3.txt gave 7914231 paths and 0 coincident points.
+   locations/ibr_trees4.txt locations/mser_trees4.txt gave 7436296 paths and 0 coincident points.
+   locations/ibr_trees5.txt locations/mser_trees5.txt gave 7074441 paths and 0 coincident points.
+   locations/ibr_trees6.txt locations/mser_trees6.txt gave 4276350 paths and 0 coincident points.
+   locations/ibr_ubc1.txt locations/mser_ubc1.txt gave 1038961 paths and 0 coincident points.
+   locations/ibr_ubc2.txt locations/mser_ubc2.txt gave 1020306 paths and 0 coincident points.
+   locations/ibr_ubc3.txt locations/mser_ubc3.txt gave 1044735 paths and 0 coincident points.
+   locations/ibr_ubc4.txt locations/mser_ubc4.txt gave 1180416 paths and 0 coincident points.
+   locations/ibr_ubc5.txt locations/mser_ubc5.txt gave 1749385 paths and 0 coincident points.
+   locations/ibr_ubc6.txt locations/mser_ubc6.txt gave 1143828 paths and 0 coincident points.
+   locations/ibr_wall1.txt locations/mser_wall1.txt gave 4947085 paths and 0 coincident points.
+   locations/ibr_wall2.txt locations/mser_wall2.txt gave 3433510 paths and 0 coincident points.
+   locations/ibr_wall3.txt locations/mser_wall3.txt gave 3533811 paths and 0 coincident points.
+   locations/ibr_wall4.txt locations/mser_wall4.txt gave 3523185 paths and 0 coincident points.
+   locations/ibr_wall5.txt locations/mser_wall5.txt gave 3597903 paths and 0 coincident points.
+   locations/ibr_wall6.txt locations/mser_wall6.txt gave 3462396 paths and 0 coincident points.
+ibr mser 206.757699334
+   locations/ibr_bark1.txt locations/sfop_bark1.txt gave 3007378 paths and 0 coincident points.
+   locations/ibr_bark2.txt locations/sfop_bark2.txt gave 3166386 paths and 0 coincident points.
+   locations/ibr_bark3.txt locations/sfop_bark3.txt gave 2866815 paths and 0 coincident points.
+   locations/ibr_bark4.txt locations/sfop_bark4.txt gave 2929410 paths and 0 coincident points.
+   locations/ibr_bark5.txt locations/sfop_bark5.txt gave 2847691 paths and 0 coincident points.
+   locations/ibr_bark6.txt locations/sfop_bark6.txt gave 3056628 paths and 0 coincident points.
+   locations/ibr_bikes1.txt locations/sfop_bikes1.txt gave 2838153 paths and 0 coincident points.
+   locations/ibr_bikes2.txt locations/sfop_bikes2.txt gave 2180916 paths and 0 coincident points.
+   locations/ibr_bikes3.txt locations/sfop_bikes3.txt gave 1987021 paths and 0 coincident points.
+   locations/ibr_bikes4.txt locations/sfop_bikes4.txt gave 1528626 paths and 0 coincident points.
+   locations/ibr_bikes5.txt locations/sfop_bikes5.txt gave 1228528 paths and 0 coincident points.
+   locations/ibr_bikes6.txt locations/sfop_bikes6.txt gave 940506 paths and 0 coincident points.
+   locations/ibr_boat1.txt locations/sfop_boat1.txt gave 4117015 paths and 0 coincident points.
+   locations/ibr_boat2.txt locations/sfop_boat2.txt gave 3938221 paths and 0 coincident points.
+   locations/ibr_boat3.txt locations/sfop_boat3.txt gave 2939100 paths and 0 coincident points.
+   locations/ibr_boat4.txt locations/sfop_boat4.txt gave 2176741 paths and 0 coincident points.
+   locations/ibr_boat5.txt locations/sfop_boat5.txt gave 1796460 paths and 0 coincident points.
+   locations/ibr_boat6.txt locations/sfop_boat6.txt gave 1758750 paths and 0 coincident points.
+   locations/ibr_graf1.txt locations/sfop_graf1.txt gave 1128753 paths and 0 coincident points.
+   locations/ibr_graf2.txt locations/sfop_graf2.txt gave 1540890 paths and 0 coincident points.
+   locations/ibr_graf3.txt locations/sfop_graf3.txt gave 1679028 paths and 0 coincident points.
+   locations/ibr_graf4.txt locations/sfop_graf4.txt gave 1851850 paths and 0 coincident points.
+   locations/ibr_graf5.txt locations/sfop_graf5.txt gave 2039190 paths and 0 coincident points.
+   locations/ibr_graf6.txt locations/sfop_graf6.txt gave 1989015 paths and 0 coincident points.
+   locations/ibr_leuv1.txt locations/sfop_leuv1.txt gave 1626306 paths and 0 coincident points.
+   locations/ibr_leuv2.txt locations/sfop_leuv2.txt gave 1203576 paths and 0 coincident points.
+   locations/ibr_leuv3.txt locations/sfop_leuv3.txt gave 928203 paths and 0 coincident points.
+   locations/ibr_leuv4.txt locations/sfop_leuv4.txt gave 712221 paths and 0 coincident points.
+   locations/ibr_leuv5.txt locations/sfop_leuv5.txt gave 531996 paths and 0 coincident points.
+   locations/ibr_leuv6.txt locations/sfop_leuv6.txt gave 383250 paths and 0 coincident points.
+   locations/ibr_trees1.txt locations/sfop_trees1.txt gave 10408203 paths and 0 coincident points.
+   locations/ibr_trees2.txt locations/sfop_trees2.txt gave 10086786 paths and 0 coincident points.
+   locations/ibr_trees3.txt locations/sfop_trees3.txt gave 9916831 paths and 0 coincident points.
+   locations/ibr_trees4.txt locations/sfop_trees4.txt gave 12657996 paths and 0 coincident points.
+   locations/ibr_trees5.txt locations/sfop_trees5.txt gave 14378203 paths and 0 coincident points.
+   locations/ibr_trees6.txt locations/sfop_trees6.txt gave 11455291 paths and 0 coincident points.
+   locations/ibr_ubc1.txt locations/sfop_ubc1.txt gave 3076440 paths and 0 coincident points.
+   locations/ibr_ubc2.txt locations/sfop_ubc2.txt gave 3076440 paths and 0 coincident points.
+   locations/ibr_ubc3.txt locations/sfop_ubc3.txt gave 3146286 paths and 0 coincident points.
+   locations/ibr_ubc4.txt locations/sfop_ubc4.txt gave 3071481 paths and 0 coincident points.
+   locations/ibr_ubc5.txt locations/sfop_ubc5.txt gave 2797795 paths and 0 coincident points.
+   locations/ibr_ubc6.txt locations/sfop_ubc6.txt gave 1863415 paths and 0 coincident points.
+   locations/ibr_wall1.txt locations/sfop_wall1.txt gave 7355530 paths and 0 coincident points.
+   locations/ibr_wall2.txt locations/sfop_wall2.txt gave 5436753 paths and 0 coincident points.
+   locations/ibr_wall3.txt locations/sfop_wall3.txt gave 5727420 paths and 0 coincident points.
+   locations/ibr_wall4.txt locations/sfop_wall4.txt gave 5887596 paths and 0 coincident points.
+   locations/ibr_wall5.txt locations/sfop_wall5.txt gave 5932290 paths and 0 coincident points.
+   locations/ibr_wall6.txt locations/sfop_wall6.txt gave 6029128 paths and 0 coincident points.
+ibr sfop 228.397700585
+   locations/mser_bark1.txt locations/sfop_bark1.txt gave 2346861 paths and 0 coincident points.
+   locations/mser_bark2.txt locations/sfop_bark2.txt gave 1983036 paths and 0 coincident points.
+   locations/mser_bark3.txt locations/sfop_bark3.txt gave 2256750 paths and 0 coincident points.
+   locations/mser_bark4.txt locations/sfop_bark4.txt gave 2902845 paths and 0 coincident points.
+   locations/mser_bark5.txt locations/sfop_bark5.txt gave 2866815 paths and 0 coincident points.
+   locations/mser_bark6.txt locations/sfop_bark6.txt gave 3360528 paths and 0 coincident points.
+   locations/mser_bikes1.txt locations/sfop_bikes1.txt gave 2516646 paths and 0 coincident points.
+   locations/mser_bikes2.txt locations/sfop_bikes2.txt gave 1476621 paths and 0 coincident points.
+   locations/mser_bikes3.txt locations/sfop_bikes3.txt gave 1234806 paths and 0 coincident points.
+   locations/mser_bikes4.txt locations/sfop_bikes4.txt gave 780625 paths and 0 coincident points.
+   locations/mser_bikes5.txt locations/sfop_bikes5.txt gave 615495 paths and 0 coincident points.
+   locations/mser_bikes6.txt locations/sfop_bikes6.txt gave 437580 paths and 0 coincident points.
+   locations/mser_boat1.txt locations/sfop_boat1.txt gave 6214575 paths and 0 coincident points.
+   locations/mser_boat2.txt locations/sfop_boat2.txt gave 5849910 paths and 0 coincident points.
+   locations/mser_boat3.txt locations/sfop_boat3.txt gave 4226778 paths and 0 coincident points.
+   locations/mser_boat4.txt locations/sfop_boat4.txt gave 2639253 paths and 0 coincident points.
+   locations/mser_boat5.txt locations/sfop_boat5.txt gave 1867278 paths and 0 coincident points.
+   locations/mser_boat6.txt locations/sfop_boat6.txt gave 2278045 paths and 0 coincident points.
+   locations/mser_graf1.txt locations/sfop_graf1.txt gave 920046 paths and 0 coincident points.
+   locations/mser_graf2.txt locations/sfop_graf2.txt gave 1277601 paths and 0 coincident points.
+   locations/mser_graf3.txt locations/sfop_graf3.txt gave 1435665 paths and 0 coincident points.
+   locations/mser_graf4.txt locations/sfop_graf4.txt gave 1628110 paths and 0 coincident points.
+   locations/mser_graf5.txt locations/sfop_graf5.txt gave 1773786 paths and 0 coincident points.
+   locations/mser_graf6.txt locations/sfop_graf6.txt gave 1999000 paths and 0 coincident points.
+   locations/mser_leuv1.txt locations/sfop_leuv1.txt gave 1755001 paths and 0 coincident points.
+   locations/mser_leuv2.txt locations/sfop_leuv2.txt gave 1284003 paths and 0 coincident points.
+   locations/mser_leuv3.txt locations/sfop_leuv3.txt gave 1018878 paths and 0 coincident points.
+   locations/mser_leuv4.txt locations/sfop_leuv4.txt gave 798216 paths and 0 coincident points.
+   locations/mser_leuv5.txt locations/sfop_leuv5.txt gave 582660 paths and 0 coincident points.
+   locations/mser_leuv6.txt locations/sfop_leuv6.txt gave 442270 paths and 0 coincident points.
+   locations/mser_trees1.txt locations/sfop_trees1.txt gave 17337216 paths and 0 coincident points.
+   locations/mser_trees2.txt locations/sfop_trees2.txt gave 18322431 paths and 0 coincident points.
+   locations/mser_trees3.txt locations/sfop_trees3.txt gave 15226921 paths and 0 coincident points.
+   locations/mser_trees4.txt locations/sfop_trees4.txt gave 14539528 paths and 0 coincident points.
+   locations/mser_trees5.txt locations/sfop_trees5.txt gave 12582636 paths and 0 coincident points.
+   locations/mser_trees6.txt locations/sfop_trees6.txt gave 7862595 paths and 0 coincident points.
+   locations/mser_ubc1.txt locations/sfop_ubc1.txt gave 3324331 paths and 0 coincident points.
+   locations/mser_ubc2.txt locations/sfop_ubc2.txt gave 3483480 paths and 0 coincident points.
+   locations/mser_ubc3.txt locations/sfop_ubc3.txt gave 3592540 paths and 0 coincident points.
+   locations/mser_ubc4.txt locations/sfop_ubc4.txt gave 3616705 paths and 0 coincident points.
+   locations/mser_ubc5.txt locations/sfop_ubc5.txt gave 3994551 paths and 0 coincident points.
+   locations/mser_ubc6.txt locations/sfop_ubc6.txt gave 2588950 paths and 0 coincident points.
+   locations/mser_wall1.txt locations/sfop_wall1.txt gave 14663820 paths and 0 coincident points.
+   locations/mser_wall2.txt locations/sfop_wall2.txt gave 10208421 paths and 0 coincident points.
+   locations/mser_wall3.txt locations/sfop_wall3.txt gave 10285380 paths and 0 coincident points.
+   locations/mser_wall4.txt locations/sfop_wall4.txt gave 10226503 paths and 0 coincident points.
+   locations/mser_wall5.txt locations/sfop_wall5.txt gave 10421895 paths and 0 coincident points.
+   locations/mser_wall6.txt locations/sfop_wall6.txt gave 10619136 paths and 0 coincident points.
+mser sfop 224.990774161
+   locations/ebr_bark1.txt gave 30628 paths and 0 coincident points.
+   locations/ebr_bark2.txt gave 32640 paths and 0 coincident points.
+   locations/ebr_bark3.txt gave 40470 paths and 0 coincident points.
+   locations/ebr_bark4.txt gave 70500 paths and 0 coincident points.
+   locations/ebr_bark5.txt gave 52326 paths and 0 coincident points.
+   locations/ebr_bark6.txt gave 46665 paths and 0 coincident points.
+   locations/ebr_bikes1.txt gave 455535 paths and 0 coincident points.
+   locations/ebr_bikes2.txt gave 205761 paths and 0 coincident points.
+   locations/ebr_bikes3.txt gave 132355 paths and 0 coincident points.
+   locations/ebr_bikes4.txt gave 49770 paths and 0 coincident points.
+   locations/ebr_bikes5.txt gave 23653 paths and 0 coincident points.
+   locations/ebr_bikes6.txt gave 9870 paths and 0 coincident points.
+   locations/ebr_boat1.txt gave 1666225 paths and 0 coincident points.
+   locations/ebr_boat2.txt gave 1280800 paths and 0 coincident points.
+   locations/ebr_boat3.txt gave 325221 paths and 0 coincident points.
+   locations/ebr_boat4.txt gave 334153 paths and 0 coincident points.
+   locations/ebr_boat5.txt gave 281625 paths and 0 coincident points.
+   locations/ebr_boat6.txt gave 56953 paths and 0 coincident points.
+   locations/ebr_graf1.txt gave 799480 paths and 0 coincident points.
+   locations/ebr_graf2.txt gave 1145341 paths and 0 coincident points.
+   locations/ebr_graf3.txt gave 1255320 paths and 0 coincident points.
+   locations/ebr_graf4.txt gave 421821 paths and 0 coincident points.
+   locations/ebr_graf5.txt gave 225456 paths and 0 coincident points.
+   locations/ebr_graf6.txt gave 117855 paths and 0 coincident points.
+   locations/ebr_leuv1.txt gave 227475 paths and 0 coincident points.
+   locations/ebr_leuv2.txt gave 190653 paths and 0 coincident points.
+   locations/ebr_leuv3.txt gave 121771 paths and 0 coincident points.
+   locations/ebr_leuv4.txt gave 111628 paths and 0 coincident points.
+   locations/ebr_leuv5.txt gave 70500 paths and 0 coincident points.
+   locations/ebr_leuv6.txt gave 55278 paths and 0 coincident points.
+   locations/ebr_trees1.txt gave 289941 paths and 0 coincident points.
+   locations/ebr_trees2.txt gave 258121 paths and 0 coincident points.
+   locations/ebr_trees3.txt gave 248160 paths and 0 coincident points.
+   locations/ebr_trees4.txt gave 125250 paths and 0 coincident points.
+   locations/ebr_trees5.txt gave 107880 paths and 0 coincident points.
+   locations/ebr_trees6.txt gave 47586 paths and 0 coincident points.
+   locations/ebr_ubc1.txt gave 295296 paths and 0 coincident points.
+   locations/ebr_ubc2.txt gave 289180 paths and 0 coincident points.
+   locations/ebr_ubc3.txt gave 385881 paths and 0 coincident points.
+   locations/ebr_ubc4.txt gave 253116 paths and 0 coincident points.
+   locations/ebr_ubc5.txt gave 416328 paths and 0 coincident points.
+   locations/ebr_ubc6.txt gave 396495 paths and 0 coincident points.
+   locations/ebr_wall1.txt gave 7021878 paths and 0 coincident points.
+   locations/ebr_wall2.txt gave 5282875 paths and 0 coincident points.
+   locations/ebr_wall3.txt gave 3523185 paths and 0 coincident points.
+   locations/ebr_wall4.txt gave 2934253 paths and 0 coincident points.
+   locations/ebr_wall5.txt gave 2828631 paths and 0 coincident points.
+   locations/ebr_wall6.txt gave 1695561 paths and 0 coincident points.
+ebr 153.579084264
+   locations/ibr_bark1.txt gave 256686 paths and 0 coincident points.
+   locations/ibr_bark2.txt gave 312445 paths and 0 coincident points.
+   locations/ibr_bark3.txt gave 228826 paths and 0 coincident points.
+   locations/ibr_bark4.txt gave 255255 paths and 0 coincident points.
+   locations/ibr_bark5.txt gave 228150 paths and 0 coincident points.
+   locations/ibr_bark6.txt gave 217470 paths and 0 coincident points.
+   locations/ibr_bikes1.txt gave 284635 paths and 0 coincident points.
+   locations/ibr_bikes2.txt gave 258840 paths and 0 coincident points.
+   locations/ibr_bikes3.txt gave 255255 paths and 0 coincident points.
+   locations/ibr_bikes4.txt gave 241165 paths and 0 coincident points.
+   locations/ibr_bikes5.txt gave 186355 paths and 0 coincident points.
+   locations/ibr_bikes6.txt gave 146611 paths and 0 coincident points.
+   locations/ibr_boat1.txt gave 376278 paths and 0 coincident points.
+   locations/ibr_boat2.txt gave 354061 paths and 0 coincident points.
+   locations/ibr_boat3.txt gave 222778 paths and 0 coincident points.
+   locations/ibr_boat4.txt gave 131841 paths and 0 coincident points.
+   locations/ibr_boat5.txt gave 137550 paths and 0 coincident points.
+   locations/ibr_boat6.txt gave 77421 paths and 0 coincident points.
+   locations/ibr_graf1.txt gave 230181 paths and 0 coincident points.
+   locations/ibr_graf2.txt gave 283128 paths and 0 coincident points.
+   locations/ibr_graf3.txt gave 317206 paths and 0 coincident points.
+   locations/ibr_graf4.txt gave 321201 paths and 0 coincident points.
+   locations/ibr_graf5.txt gave 424581 paths and 0 coincident points.
+   locations/ibr_graf6.txt gave 396495 paths and 0 coincident points.
+   locations/ibr_leuv1.txt gave 122760 paths and 0 coincident points.
+   locations/ibr_leuv2.txt gave 91806 paths and 0 coincident points.
+   locations/ibr_leuv3.txt gave 61425 paths and 0 coincident points.
+   locations/ibr_leuv4.txt gave 37950 paths and 0 coincident points.
+   locations/ibr_leuv5.txt gave 29646 paths and 0 coincident points.
+   locations/ibr_leuv6.txt gave 16836 paths and 0 coincident points.
+   locations/ibr_trees1.txt gave 893116 paths and 0 coincident points.
+   locations/ibr_trees2.txt gave 805815 paths and 0 coincident points.
+   locations/ibr_trees3.txt gave 1060696 paths and 0 coincident points.
+   locations/ibr_trees4.txt gave 1526878 paths and 0 coincident points.
+   locations/ibr_trees5.txt gave 2108431 paths and 0 coincident points.
+   locations/ibr_trees6.txt gave 1753128 paths and 0 coincident points.
+   locations/ibr_ubc1.txt gave 225456 paths and 0 coincident points.
+   locations/ibr_ubc2.txt gave 201295 paths and 0 coincident points.
+   locations/ibr_ubc3.txt gave 202566 paths and 0 coincident points.
+   locations/ibr_ubc4.txt gave 219453 paths and 0 coincident points.
+   locations/ibr_ubc5.txt gave 248160 paths and 0 coincident points.
+   locations/ibr_ubc6.txt gave 170236 paths and 0 coincident points.
+   locations/ibr_wall1.txt gave 306153 paths and 0 coincident points.
+   locations/ibr_wall2.txt gave 244650 paths and 0 coincident points.
+   locations/ibr_wall3.txt gave 283881 paths and 0 coincident points.
+   locations/ibr_wall4.txt gave 305371 paths and 0 coincident points.
+   locations/ibr_wall5.txt gave 304590 paths and 0 coincident points.
+   locations/ibr_wall6.txt gave 279378 paths and 0 coincident points.
+ibr 211.089100782
+   locations/mser_bark1.txt gave 92665 paths and 0 coincident points.
+   locations/mser_bark2.txt gave 35245 paths and 0 coincident points.
+   locations/mser_bark3.txt gave 82621 paths and 0 coincident points.
+   locations/mser_bark4.txt gave 247456 paths and 0 coincident points.
+   locations/mser_bark5.txt gave 233586 paths and 0 coincident points.
+   locations/mser_bark6.txt gave 303810 paths and 0 coincident points.
+   locations/mser_bikes1.txt gave 189420 paths and 0 coincident points.
+   locations/mser_bikes2.txt gave 61075 paths and 0 coincident points.
+   locations/mser_bikes3.txt gave 42778 paths and 0 coincident points.
+   locations/mser_bikes4.txt gave 19110 paths and 0 coincident points.
+   locations/mser_bikes5.txt gave 11628 paths and 0 coincident points.
+   locations/mser_bikes6.txt gave 5565 paths and 0 coincident points.
+   locations/mser_boat1.txt gave 1160526 paths and 0 coincident points.
+   locations/mser_boat2.txt gave 1059240 paths and 0 coincident points.
+   locations/mser_boat3.txt gave 661825 paths and 0 coincident points.
+   locations/mser_boat4.txt gave 262450 paths and 0 coincident points.
+   locations/mser_boat5.txt gave 157641 paths and 0 coincident points.
+   locations/mser_boat6.txt gave 212878 paths and 0 coincident points.
+   locations/mser_graf1.txt gave 141778 paths and 0 coincident points.
+   locations/mser_graf2.txt gave 177310 paths and 0 coincident points.
+   locations/mser_graf3.txt gave 216811 paths and 0 coincident points.
+   locations/mser_graf4.txt gave 232221 paths and 0 coincident points.
+   locations/mser_graf5.txt gave 308505 paths and 0 coincident points.
+   locations/mser_graf6.txt gave 400960 paths and 0 coincident points.
+   locations/mser_leuv1.txt gave 159895 paths and 0 coincident points.
+   locations/mser_leuv2.txt gave 114960 paths and 0 coincident points.
+   locations/mser_leuv3.txt gave 86320 paths and 0 coincident points.
+   locations/mser_leuv4.txt gave 59685 paths and 0 coincident points.
+   locations/mser_leuv5.txt gave 42486 paths and 0 coincident points.
+   locations/mser_leuv6.txt gave 30876 paths and 0 coincident points.
+   locations/mser_trees1.txt gave 3544453 paths and 0 coincident points.
+   locations/mser_trees2.txt gave 4008696 paths and 0 coincident points.
+   locations/mser_trees3.txt gave 3178981 paths and 0 coincident points.
+   locations/mser_trees4.txt gave 2222886 paths and 0 coincident points.
+   locations/mser_trees5.txt gave 1457778 paths and 0 coincident points.
+   locations/mser_trees6.txt gave 552826 paths and 0 coincident points.
+   locations/mser_ubc1.txt gave 296065 paths and 0 coincident points.
+   locations/mser_ubc2.txt gave 314821 paths and 0 coincident points.
+   locations/mser_ubc3.txt gave 326836 paths and 0 coincident points.
+   locations/mser_ubc4.txt gave 381501 paths and 0 coincident points.
+   locations/mser_ubc5.txt gave 679195 paths and 0 coincident points.
+   locations/mser_ubc6.txt gave 431056 paths and 0 coincident points.
+   locations/mser_wall1.txt gave 2790703 paths and 0 coincident points.
+   locations/mser_wall2.txt gave 1844160 paths and 0 coincident points.
+   locations/mser_wall3.txt gave 1813560 paths and 0 coincident points.
+   locations/mser_wall4.txt gave 1753128 paths and 0 coincident points.
+   locations/mser_wall5.txt gave 1807851 paths and 0 coincident points.
+   locations/mser_wall6.txt gave 1773786 paths and 0 coincident points.
+mser 187.125665226
+   locations/sfop_bark1.txt gave 1505980 paths and 0 coincident points.
+   locations/sfop_bark2.txt gave 1488675 paths and 0 coincident points.
+   locations/sfop_bark3.txt gave 1474903 paths and 0 coincident points.
+   locations/sfop_bark4.txt gave 1454365 paths and 0 coincident points.
+   locations/sfop_bark5.txt gave 1462905 paths and 0 coincident points.
+   locations/sfop_bark6.txt gave 1642578 paths and 0 coincident points.
+   locations/sfop_bikes1.txt gave 1324378 paths and 0 coincident points.
+   locations/sfop_bikes2.txt gave 936396 paths and 0 coincident points.
+   locations/sfop_bikes3.txt gave 817281 paths and 0 coincident points.
+   locations/sfop_bikes4.txt gave 554931 paths and 0 coincident points.
+   locations/sfop_bikes5.txt gave 457446 paths and 0 coincident points.
+   locations/sfop_bikes6.txt gave 344035 paths and 0 coincident points.
+   locations/sfop_boat1.txt gave 2003001 paths and 0 coincident points.
+   locations/sfop_boat2.txt gave 1929630 paths and 0 coincident points.
+   locations/sfop_boat3.txt gave 1542646 paths and 0 coincident points.
+   locations/sfop_boat4.txt gave 1236378 paths and 0 coincident points.
+   locations/sfop_boat5.txt gave 939135 paths and 0 coincident points.
+   locations/sfop_boat6.txt gave 1097421 paths and 0 coincident points.
+   locations/sfop_graf1.txt gave 339076 paths and 0 coincident points.
+   locations/sfop_graf2.txt gave 502503 paths and 0 coincident points.
+   locations/sfop_graf3.txt gave 536130 paths and 0 coincident points.
+   locations/sfop_graf4.txt gave 630003 paths and 0 coincident points.
+   locations/sfop_graf5.txt gave 602253 paths and 0 coincident points.
+   locations/sfop_graf6.txt gave 608856 paths and 0 coincident points.
+   locations/sfop_leuv1.txt gave 854778 paths and 0 coincident points.
+   locations/sfop_leuv2.txt gave 630003 paths and 0 coincident points.
+   locations/sfop_leuv3.txt gave 511566 paths and 0 coincident points.
+   locations/sfop_leuv4.txt gave 420903 paths and 0 coincident points.
+   locations/sfop_leuv5.txt gave 310078 paths and 0 coincident points.
+   locations/sfop_leuv6.txt gave 239086 paths and 0 coincident points.
+   locations/sfop_trees1.txt gave 5201925 paths and 0 coincident points.
+   locations/sfop_trees2.txt gave 5189031 paths and 0 coincident points.
+   locations/sfop_trees3.txt gave 4489506 paths and 0 coincident points.
+   locations/sfop_trees4.txt gave 5390686 paths and 0 coincident points.
+   locations/sfop_trees5.txt gave 5473086 paths and 0 coincident points.
+   locations/sfop_trees6.txt gave 4244241 paths and 0 coincident points.
+   locations/sfop_ubc1.txt gave 1635336 paths and 0 coincident points.
+   locations/sfop_ubc2.txt gave 1702935 paths and 0 coincident points.
+   locations/sfop_ubc3.txt gave 1751256 paths and 0 coincident points.
+   locations/sfop_ubc4.txt gave 1648020 paths and 0 coincident points.
+   locations/sfop_ubc5.txt gave 1378630 paths and 0 coincident points.
+   locations/sfop_ubc6.txt gave 906531 paths and 0 coincident points.
+   locations/sfop_wall1.txt gave 4658878 paths and 0 coincident points.
+   locations/sfop_wall2.txt gave 3373503 paths and 0 coincident points.
+   locations/sfop_wall3.txt gave 3459765 paths and 0 coincident points.
+   locations/sfop_wall4.txt gave 3509925 paths and 0 coincident points.
+   locations/sfop_wall5.txt gave 3547116 paths and 0 coincident points.
+   locations/sfop_wall6.txt gave 3711450 paths and 0 coincident points.
+sfop 232.900002239
+sfop 232.900002239
+ibr + sfop 228.397700585
+mser + sfop 224.990774161
+ibr + mser + sfop 223.874716871
+ebr + ibr + sfop 215.926521724
+ebr + ibr + mser + sfop 215.36894237
+ebr + sfop 214.791746679
+ebr + mser + sfop 214.116257689
+ibr 211.089100782
+ibr + mser 206.757699334
+ebr + ibr + mser 196.570242443
+ebr + ibr 189.659694768
+mser 187.125665226
+ebr + mser 180.497735173
+ebr 153.579084264

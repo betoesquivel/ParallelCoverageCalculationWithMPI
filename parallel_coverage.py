@@ -67,20 +67,20 @@ def distribute_coverage (locs):
 
     comm.Barrier()
     # reduce the calculation
-    results = numpy.array([0.0,0.0,0.0])
-    comm.Reduce(partial_results, results, op.MPI.SUM, root=0)
+    results = numpy.array([float(0.0),float(0.0),float(0.0)])
+    comm.Reduce(partial_results, results, MPI.SUM, root=0)
 
     if rank == 0:
-        # add my partial results to the reduction
-        results = numpy.add(partial_results, results)
+        # return the results
+        dsum   = results[0]
+        npaths = results[1]
+        ncoin  = results[2]
+        return npaths / dsum, npaths, ncoin
+    else:
+        return 1, 1, 1
 
 
-    # return the results
-    dsum   = results[0]
-    npaths = results[1]
-    ncoin  = results[2]
 
-    return npaths / dsum, npaths, ncoin
 
 def calc_my_partial_coverage(locs):
     '''
@@ -126,7 +126,7 @@ def calc_my_partial_coverage(locs):
     sec_comb_len = 1 if sec_comb_len == 0 else sec_comb_len
 
     # calculate coverage for my combinations of sections
-    comb_lower_b, comb_upper_b = get_bounds(sec_comb_len, nsec_comb)
+    comb_lower_b, comb_upper_b = get_bounds(procs, rank, sec_comb_len, nsec_comb)
 
     # make sure the master node does nothing if there are only two processors
     if procs == 2 and rank == 0:
@@ -155,7 +155,7 @@ def calc_my_partial_coverage(locs):
 
     return numpy.array([dsum, npaths, ncoin])
 
-def get_bounds(section_length, data_length):
+def get_bounds(proks, rank, section_length, data_length):
     '''
     Returns lower and upper bounds in data, like so:
      [lowerbound, upperbound)
@@ -177,8 +177,9 @@ def mean_coverage1 (opname, imsets):
             fn = 'locations/%s_%s%d.txt' % (opname, imset, fno)
             locs = load_locations (fn)
             c, np, nc = distribute_coverage (locs)
-            print '  ', fn, 'gave', np, 'paths and', nc, 'coincident points.'
-            csum += c
+            if rank == 0:
+                print '  ', fn, 'gave', np, 'paths and', nc, 'coincident points.'
+                csum += c
             nfiles += 1
     return csum / nfiles
 
@@ -197,9 +198,10 @@ def mean_coverage2 (op1, op2, imsets):
             locs[0:nlocs1,:] = locs1
             locs[nlocs1:,:] = locs2
             c, np, nc = distribute_coverage (locs)
-            print '  ', fn1, fn2, 'gave', np, 'paths and', \
-                  nc, 'coincident points.'
-            csum += c
+            if rank == 0:
+                print '  ', fn1, fn2, 'gave', np, 'paths and', \
+                      nc, 'coincident points.'
+                csum += c
             nfiles += 1
     return csum / nfiles
 
@@ -221,9 +223,10 @@ def mean_coverage3 (op1, op2, op3, imsets):
             locs[nlocs1:nlocs1+len(locs2),:] = locs2
             locs[nlocs1+len(locs2):,:] = locs3
             c, np, nc = distribute_coverage (locs)
-            print '  ', fn1, fn2, fn3, 'gave', np, 'paths and', \
-                  nc, 'coincident points.'
-            csum += c
+            if rank == 0:
+                print '  ', fn1, fn2, fn3, 'gave', np, 'paths and', \
+                      nc, 'coincident points.'
+                csum += c
             nfiles += 1
     return csum / nfiles
 
@@ -248,9 +251,10 @@ def mean_coverage4 (op1, op2, op3, op4, imsets):
             locs[nlocs1+len(locs2):nlocs1+len(locs2)+len(locs3),:] = locs3
             locs[nlocs1+len(locs2)+len(locs3):,:] = locs4
             c, np, nc = distribute_coverage (locs)
-            print '  ', fn1, fn2, fn3, fn4, 'gave', np, 'paths and', \
-                  nc, 'coincident points.'
-            csum += c
+            if rank == 0:
+                print '  ', fn1, fn2, fn3, fn4, 'gave', np, 'paths and', \
+                      nc, 'coincident points.'
+                csum += c
             nfiles += 1
     return csum / nfiles
 
@@ -280,7 +284,8 @@ for i1 in range (0, nops):
             for i4 in range (i3+1, nops):
                 op4 = opnames[i4]
                 mc = mean_coverage4 (op1, op2, op3, op4, imsets)
-                print op1, op2, op3, op4, mc
+                if rank == 0:
+                    print op1, op2, op3, op4, mc
                 results[op1 + ' + ' + op2 + ' + ' + op3 + ' + ' + op4] = mc
 
 # Calculate the coverage for each combination of triples of operators.
@@ -292,7 +297,8 @@ for i1 in range (0, nops):
         for i3 in range (i2+1, nops):
             op3 = opnames[i3]
             mc = mean_coverage3 (op1, op2, op3, imsets)
-            print op1, op2, op3, mc
+            if rank == 0:
+                print op1, op2, op3, mc
             results[op1 + ' + ' + op2 + ' + ' + op3] = mc
 
 # Calculate the coverage for each combination of pairs of operators.
@@ -302,19 +308,22 @@ for i1 in range (0, nops):
     for i2 in range (i1+1, nops):
         op2 = opnames[i2]
         mc = mean_coverage2 (op1, op2, imsets)
-        print op1, op2, mc
+        if rank == 0:
+            print op1, op2, mc
         results[op1 + ' + ' + op2] = mc
 
 # Calculate the coverage for each individual operator.
 for op in opnames:
     mc = mean_coverage1 (op, imsets)
-    print op, mc
+    if rank == 0:
+        print op, mc
     results[op] = mc
 
 # Output what we've calculated in descending order of coverage.
-ds = sort_by_value (results)
-for k in reversed (ds):
-    print k, results[k]
+if rank == 0:
+    ds = sort_by_value (results)
+    for k in reversed (ds):
+        print k, results[k]
 
 #------------------------------------------------------------------------------
 # End of coverage

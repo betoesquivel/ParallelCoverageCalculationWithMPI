@@ -1,0 +1,8 @@
+   locations/ebr_bark1.txt locations/ibr_bark1.txt locations/mser_bark1.txt locations/sfop_bark1.txt gave 4903146 paths and 0 coincident points.
+   locations/ebr_bark2.txt locations/ibr_bark2.txt locations/mser_bark2.txt locations/sfop_bark2.txt gave 4616241 paths and 0 coincident points.
+   locations/ebr_bark3.txt locations/ibr_bark3.txt locations/mser_bark3.txt locations/sfop_bark3.txt gave 4763241 paths and 0 coincident points.
+   locations/ebr_bark4.txt locations/ibr_bark4.txt locations/mser_bark4.txt locations/sfop_bark4.txt gave 6126750 paths and 0 coincident points.
+   locations/ebr_bark5.txt locations/ibr_bark5.txt locations/mser_bark5.txt locations/sfop_bark5.txt gave 5761315 paths and 0 coincident points.
+   locations/ebr_bark6.txt locations/ibr_bark6.txt locations/mser_bark6.txt locations/sfop_bark6.txt gave 6331461 paths and 0 coincident points.
+   locations/ebr_bikes1.txt locations/ibr_bikes1.txt locations/mser_bikes1.txt locations/sfop_bikes1.txt gave 7815081 paths and 0 coincident points.
+   locations/ebr_bikes2.txt locations/ibr_bikes2.txt locations/mser_bikes2.txt locations/sfop_bikes2.txt gave 4744740 paths and 0 coincident points.
