@@ -155,7 +155,7 @@ def calc_my_partial_coverage(locs):
 
     return numpy.array([dsum, npaths, ncoin])
 
-def get_bounds(proks, rank, section_length, data_length):
+def get_bounds(procs, rank, section_length, data_length):
     '''
     Returns lower and upper bounds in data, like so:
      [lowerbound, upperbound)

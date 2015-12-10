@@ -1,0 +1,15 @@
+ebr: 153.579086
+ibr: 211.089050
+mser: 187.125977
+sfop: 232.900024
+ebr + ibr: 189.659668
+ebr + mser: 180.497925
+ebr + sfop: 214.791748
+ibr + mser: 206.757767
+ibr + sfop: 228.397644
+mser + sfop: 224.990952
+ebr + ibr + mser: 196.570236
+ebr + ibr + sfop: 215.926453
+ebr + mser + sfop: 214.116318
+ibr + mser + sfop: 223.874771
+ebr + ibr + mser + sfop: 215.368942
