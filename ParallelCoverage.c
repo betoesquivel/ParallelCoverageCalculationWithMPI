@@ -13,6 +13,33 @@
 // Reg no. of student: 1500921
 // Submission date: 10 December, 2015
 
+/*
+Timing runs results explanation
+
+In order to test this code's performance, it was tested against different
+processors. 10 measurements were done using the following numbers of procs:
+93, 83, 73, 63, 53, 43, 33, 13, 3.
+
+The time used to time the data was real time, since it is the turnaround time.
+The user and system times are not as useful when running a distributed
+environment.
+
+Performance bumps started becoming apparent starting in the processor 53.
+There is a huge difference from 3 processors to 13 processors, and from then
+on, there is a steady increase up until the node # 53.
+
+Amdahl's law states that the speedup, or timing difference between two machines
+is limited by the parts of the algorithm that can't be parallelized and must
+run serially. So, judging from the graph I did with my results. I would say that
+the speedup limit is somewhere arround 7.30, which is the quotient between the
+time taken to run at 53 nodes vs 3 nodes.
+
+Judging by the timing results of the first 5 values for time in the table, 310s
+is as fast as it can get. The addition of 10 processors starting from this point,
+only have a minimum effect, which could have been done by time.
+
+*/
+
 #include <stdio.h>
 #include <mpi.h>
 #include <stdlib.h>
